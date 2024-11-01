@@ -1,0 +1,113 @@
+@font-face {
+  font-family: 'starsmenu-admin';
+  src:  url('../fonts/starsmenu-admin.eot?pjwc4v');
+  src:  url('../fonts/starsmenu-admin.eot?pjwc4v#iefix') format('embedded-opentype'),
+    url('../fonts/starsmenu-admin.ttf?pjwc4v') format('truetype'),
+    url('../fonts/starsmenu-admin.woff?pjwc4v') format('woff'),
+    url('../fonts/starsmenu-admin.svg?pjwc4v#starsmenu-admin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.smd {
+
+  display: inline-block;
+  font: normal normal normal 14px/1 starsmenu-admin;
+  font-size: inherit;
+  text-rendering: auto;  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.smd-spin {
+  -webkit-animation: smd-spin 2s infinite linear;
+  animation: smd-spin 2s infinite linear;
+}
+
+@-webkit-keyframes smd-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes smd-spin {
+  0% {  
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+
+.smd-eraser:before {
+  content: "\e901";
+}
+.smd-floppy-o:before {
+  content: "\e903";
+}
+.smd-check:before {
+  content: "\e904";
+}
+.smd-cross:before {
+  content: "\e905";
+}
+.smd-stars-logo:before {
+  content: "\e902";
+}
+.smd-search:before {
+  content: "\f002";
+}
+.smd-star:before {
+  content: "\f005";
+}
+.smd-setting:before {
+  content: "\f013";
+}
+.smd-book:before {
+  content: "\f02d";
+}
+.smd-arrows:before {
+  content: "\f047";
+}
+.smd-exclamation-triangle:before {
+  content: "\f071";
+}
+.smd-cogs:before {
+  content: "\f085";
+}
+.smd-expand:before {
+  content: "\f0b2";
+}
+.smd-three:before {
+  content: "\f0c9";
+}
+.smd-brush:before {
+  content: "\f1fc";
+}
+.smd-hamburger:before {
+  content: "\e906";
+}
+.smd-layout:before {
+  content: "\e900";
+}
+.smd-support:before {
+  content: "\e941";
+}
+.smd-spinner:before {
+  content: "\e97b";
+}
+ 
+
+body li#toplevel_page_stars-menu .dashicons-admin-generic:before {
+  content: "\e902";
+  font-family: starsmenu-admin;
+  font-size: 19px;
+  width: 30px;
+}
+

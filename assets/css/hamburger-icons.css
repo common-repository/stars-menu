@@ -1,0 +1,47 @@
+/* Hamburger icon */
+.starsmenu-trigger,
+.starsmenu-trigger .starsmenu-bar {
+    display: inline-block;
+    transition: all .4s;
+    box-sizing: border-box;
+}
+.stars-menu-bar-wrapper .stars-menu-bar-wrapper-inner .starsmenu-trigger {
+    position: relative;
+    padding: 0 !important;
+    display: inline-block;
+    vertical-align: middle;
+    outline: none;
+}
+.starsmenu-trigger .starsmenu-bar {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.starsmenu-trigger .starsmenu-bar:nth-of-type(1) {
+    top: 0;
+}
+.starsmenu-trigger .starsmenu-bar:nth-of-type(2) {
+    top: 50%;
+}
+.starsmenu-trigger .starsmenu-bar:nth-of-type(3) {
+    bottom: 0;
+}
+
+
+
+.starsmenutrigger-1.stars-menu-hz-hamburger-active .starsmenu-trigger .starsmenu-bar:nth-of-type(1) {
+    -webkit-transform: translateY(-50%) rotate(-45deg);
+    transform: translateY(-50%) rotate(-45deg);
+    top: 50%;
+}
+.starsmenutrigger-1.stars-menu-hz-hamburger-active .starsmenu-trigger .starsmenu-bar:nth-of-type(2) {
+    opacity: 0;
+}
+.starsmenutrigger-1.stars-menu-hz-hamburger-active .starsmenu-trigger .starsmenu-bar:nth-of-type(3) {
+    -webkit-transform: translateY(50%) rotate(45deg);
+    transform: translateY(50%) rotate(45deg);
+    bottom: 50%;
+}

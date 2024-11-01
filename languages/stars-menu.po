@@ -1,0 +1,4741 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stars Menu\n"
+"POT-Creation-Date: 2017-01-30 17:28+0330\n"
+"PO-Revision-Date: 2017-01-30 17:28+0330\n"
+"Last-Translator: \n"
+"Language-Team: Stars Menu Team\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: fonts\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+"X-Poedit-SearchPathExcluded-3: .svn\n"
+
+#: includes/elements/cart-icon-element.class.php:56
+#: includes/elements/cart-icon-element.class.php:127
+msgid "Cart Icon"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:121
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:137
+msgid "Cart Dropdown Position"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:140
+#: includes/elements/cart-icon-element.class.php:155
+#: includes/menu-item-settings.class.php:282
+#: includes/menu-item-settings.class.php:430
+#: includes/menu-item-settings.class.php:449
+#: includes/menu-item-settings.class.php:464
+#: includes/menu-item-settings.class.php:481
+#: includes/menu-item-settings.class.php:498
+#: includes/menu-item-settings.class.php:513
+#: includes/vendor/titan-framework/lib/class-option-sub-nav-bar.php:111
+#: includes/vendor/titan-framework/lib/class-option-sub-nav-bar.php:156
+msgid "Default"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:141
+#: includes/elements/cart-icon-element.class.php:249
+#: includes/elements/cart-icon-element.class.php:272
+#: includes/elements/logo-element.class.php:341
+#: includes/elements/search-element.class.php:400
+#: includes/menu-item-settings.class.php:450
+#: includes/menu-item-settings.class.php:467
+#: includes/menu-item-settings.class.php:484
+#: includes/menu-item-settings.class.php:499
+#: includes/theme-settings/hamburger-options.php:270
+#: includes/theme-settings/layout.php:39 includes/theme-settings/layout.php:52
+#: includes/theme-settings/layout.php:84 includes/theme-settings/layout.php:97
+#: includes/theme-settings/menu-bar.php:223
+#: includes/theme-settings/menu-bar.php:269
+#: includes/theme-settings/menu-bar.php:292
+#: includes/theme-settings/mobile.php:32 includes/theme-settings/mobile.php:213
+#: includes/theme-settings/mobile.php:363
+#: includes/theme-settings/mobile.php:409
+#: includes/theme-settings/mobile.php:432
+#: includes/theme-settings/social-bar.php:86
+#: includes/theme-settings/submenus.php:31
+#: includes/theme-settings/submenus.php:62
+#: includes/theme-settings/submenus.php:321
+#: includes/theme-settings/submenus.php:387
+#: includes/theme-settings/submenus.php:417
+#: includes/theme-settings/submenus.php:560
+#: includes/theme-settings/submenus.php:606
+#: includes/theme-settings/submenus.php:629
+#: includes/theme-settings/top-level-items.php:214
+#: includes/theme-settings/top-level-items.php:260
+#: includes/theme-settings/top-level-items.php:316
+msgid "Left"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:142
+#: includes/elements/cart-icon-element.class.php:247
+#: includes/elements/cart-icon-element.class.php:270
+#: includes/elements/logo-element.class.php:339
+#: includes/elements/search-element.class.php:398
+#: includes/menu-item-settings.class.php:452
+#: includes/menu-item-settings.class.php:468
+#: includes/menu-item-settings.class.php:485
+#: includes/menu-item-settings.class.php:500
+#: includes/theme-settings/hamburger-options.php:268
+#: includes/theme-settings/layout.php:40 includes/theme-settings/layout.php:53
+#: includes/theme-settings/layout.php:85 includes/theme-settings/layout.php:98
+#: includes/theme-settings/menu-bar.php:221
+#: includes/theme-settings/menu-bar.php:267
+#: includes/theme-settings/menu-bar.php:290
+#: includes/theme-settings/mobile.php:33 includes/theme-settings/mobile.php:211
+#: includes/theme-settings/mobile.php:361
+#: includes/theme-settings/mobile.php:407
+#: includes/theme-settings/mobile.php:430
+#: includes/theme-settings/social-bar.php:84
+#: includes/theme-settings/submenus.php:32
+#: includes/theme-settings/submenus.php:63
+#: includes/theme-settings/submenus.php:319
+#: includes/theme-settings/submenus.php:385
+#: includes/theme-settings/submenus.php:415
+#: includes/theme-settings/submenus.php:558
+#: includes/theme-settings/submenus.php:604
+#: includes/theme-settings/submenus.php:627
+#: includes/theme-settings/top-level-items.php:212
+#: includes/theme-settings/top-level-items.php:258
+#: includes/theme-settings/top-level-items.php:314
+msgid "Right"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:145
+msgid ""
+"It allows you specify the dropdown position with respect to cart icon "
+"element. If you select the default value, then the position would be "
+"specified based on the “Dropdowns Position” setting."
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:152
+msgid "Cart Dropdown Trigger"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:156
+#: includes/menu-item-settings.class.php:514
+#: includes/theme-settings/hamburger-options.php:49
+#: includes/theme-settings/submenus.php:75
+msgid "Click"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:157
+#: includes/menu-item-settings.class.php:515
+#: includes/theme-settings/hamburger-options.php:50
+#: includes/theme-settings/submenus.php:76
+msgid "Hover"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:160
+msgid ""
+"Open the cart Dropdown via this trigger. If you select the default value, "
+"then the position would be specified based on the “Dropdowns Trigger” "
+"setting."
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:166
+msgid "Style Customization"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:173
+msgid "Cart Icon Size"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:176
+msgid "the size of cart element icon"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:186
+msgid "Cart Icon Color"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:189
+msgid "the color for the cart element icon"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:200
+msgid "Cart Icon Hover Color"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:203
+msgid "the hover color for the cart element icon"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:214
+msgid "Cart Icon Color In Sticky"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:217
+msgid "the color for the cart element icon on sticky menu"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:228
+msgid "Cart Icon Color In Hamburger Bar"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:231
+msgid "the color for the cart element icon on hamburger bar"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:242
+msgid "Cart Dropdown Content Padding"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:246
+#: includes/elements/cart-icon-element.class.php:269
+#: includes/elements/logo-element.class.php:338
+#: includes/elements/search-element.class.php:397
+#: includes/theme-settings/hamburger-options.php:267
+#: includes/theme-settings/menu-bar.php:220
+#: includes/theme-settings/menu-bar.php:266
+#: includes/theme-settings/menu-bar.php:289
+#: includes/theme-settings/mobile.php:210
+#: includes/theme-settings/mobile.php:360
+#: includes/theme-settings/mobile.php:406
+#: includes/theme-settings/mobile.php:429
+#: includes/theme-settings/social-bar.php:83
+#: includes/theme-settings/submenus.php:318
+#: includes/theme-settings/submenus.php:384
+#: includes/theme-settings/submenus.php:414
+#: includes/theme-settings/submenus.php:557
+#: includes/theme-settings/submenus.php:603
+#: includes/theme-settings/submenus.php:626
+#: includes/theme-settings/top-level-items.php:211
+#: includes/theme-settings/top-level-items.php:257
+#: includes/theme-settings/top-level-items.php:313
+msgid "Top"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:248
+#: includes/elements/cart-icon-element.class.php:271
+#: includes/elements/logo-element.class.php:340
+#: includes/elements/search-element.class.php:399
+#: includes/theme-settings/hamburger-options.php:269
+#: includes/theme-settings/menu-bar.php:222
+#: includes/theme-settings/menu-bar.php:268
+#: includes/theme-settings/menu-bar.php:291
+#: includes/theme-settings/mobile.php:212
+#: includes/theme-settings/mobile.php:362
+#: includes/theme-settings/mobile.php:408
+#: includes/theme-settings/mobile.php:431
+#: includes/theme-settings/social-bar.php:85
+#: includes/theme-settings/submenus.php:320
+#: includes/theme-settings/submenus.php:386
+#: includes/theme-settings/submenus.php:416
+#: includes/theme-settings/submenus.php:559
+#: includes/theme-settings/submenus.php:605
+#: includes/theme-settings/submenus.php:628
+#: includes/theme-settings/top-level-items.php:213
+#: includes/theme-settings/top-level-items.php:259
+#: includes/theme-settings/top-level-items.php:315
+msgid "Bottom"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:264
+msgid "Cart Spacing"
+msgstr ""
+
+#: includes/elements/cart-icon-element.class.php:267
+msgid ""
+"It specifies the left, right, top and bottom spaces of your WooCommerce Cart "
+"with respect to menu bar."
+msgstr ""
+
+#: includes/elements/logo-element.class.php:64
+#: includes/elements/logo-element.class.php:203
+#: includes/menu-theme-settings.class.php:143
+msgid "Logo"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:209
+msgid "Main Logo"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:213
+msgid ""
+"This is the logo that will be displayed on your navigation bar. For best "
+"results, use a png."
+msgstr ""
+
+#: includes/elements/logo-element.class.php:214
+#: includes/elements/logo-element.class.php:270
+#: includes/elements/logo-element.class.php:281
+msgid "Choose Logo"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:215
+#: includes/elements/logo-element.class.php:271
+#: includes/elements/logo-element.class.php:282
+#: includes/menu-item-settings.class.php:360
+#: includes/menu-item-settings.class.php:361
+#: includes/theme-settings/sticky.php:35 includes/theme-settings/sticky.php:36
+msgid "Choose Image"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:220
+msgid "Logo Link"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:223
+msgid "Link To Home"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:224
+msgid "Custom Link"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:225
+msgid "without Link"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:228
+msgid ""
+"It specifies the type of Logo Link. If you want your logo does not have any "
+"link, select the “Without Link” option, if you want to link an arbitrary "
+"address, select the “Custom Link” and then specify your desired link by "
+"using Logo “Custom Link” setting. Otherwise, your logo will be linked to "
+"main page of site by selecting the “Link To Home” option."
+msgstr ""
+
+#: includes/elements/logo-element.class.php:234
+msgid "Logo Custom Link"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:237
+msgid "Set the custom hyperlink/url for your logo."
+msgstr ""
+
+#: includes/elements/logo-element.class.php:243
+msgid "Logo Link Target"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:246
+msgid "Open in new window"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:247
+msgid "Open in same window"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:250
+msgid "Set the target for your logo url."
+msgstr ""
+
+#: includes/elements/logo-element.class.php:256
+msgid "Logo alt"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:259
+msgid "Set alt attribute for the logo."
+msgstr ""
+
+#: includes/elements/logo-element.class.php:265
+msgid "Hamburger Bar Logo"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:269
+msgid ""
+"If you want to have a different logo compared to main logo on the Hamburger "
+"bar, set this option."
+msgstr ""
+
+#: includes/elements/logo-element.class.php:276
+msgid "Mobile Logo"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:280
+msgid ""
+"If you want to have a different logo compared to main logo on the mobile "
+"menu, set this option."
+msgstr ""
+
+#: includes/elements/logo-element.class.php:287
+msgid "Logo Style Customizations"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:294
+msgid "Logo Max Width"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:297
+msgid ""
+"This setting allows you to specify the maximum width of your Logo. also, its "
+"height will be changed with respect to this variation. So, it can be said "
+"that using this setting, you can specify the size of your Logo."
+msgstr ""
+
+#: includes/elements/logo-element.class.php:307
+msgid "Hamburger Bar Logo Max Width"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:310
+msgid ""
+"This setting allows you to specify the maximum width of your Hamburger Bar "
+"Logo. also, its height will be changed with respect to this variation. So, "
+"it can be said that using this setting, you can specify the size of your "
+"Logo."
+msgstr ""
+
+#: includes/elements/logo-element.class.php:320
+msgid "Mobile Logo Max Width"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:323
+msgid ""
+"This setting allows you to specify the maximum width of your Mobile Logo. "
+"also, its height will be changed with respect to this variation. So, it can "
+"be said that using this setting, you can specify the size of your Logo."
+msgstr ""
+
+#: includes/elements/logo-element.class.php:333
+msgid "Logo Spacing"
+msgstr ""
+
+#: includes/elements/logo-element.class.php:336
+msgid ""
+"It specifies the left, right, top and bottom spaces of your logo with "
+"respect to menu bar."
+msgstr ""
+
+#: includes/elements/search-element.class.php:56
+#: includes/elements/search-element.class.php:122
+#: includes/menu-theme-settings.class.php:144
+msgid "Search"
+msgstr ""
+
+#: includes/elements/search-element.class.php:128
+msgid "Search Icon"
+msgstr ""
+
+#: includes/elements/search-element.class.php:137
+msgid "Search Close Icon"
+msgstr ""
+
+#: includes/elements/search-element.class.php:146
+msgid "Search Button Icon"
+msgstr ""
+
+#: includes/elements/search-element.class.php:155
+msgid "Search Placeholder Text"
+msgstr ""
+
+#: includes/elements/search-element.class.php:158
+msgid "Set the placeholder text for the search input field."
+msgstr ""
+
+#: includes/elements/search-element.class.php:159
+msgid "Search..."
+msgstr ""
+
+#: includes/elements/search-element.class.php:164
+msgid "Search Style Customizations"
+msgstr ""
+
+#: includes/elements/search-element.class.php:171
+msgid "Input Background Color"
+msgstr ""
+
+#: includes/elements/search-element.class.php:174
+msgid "The background color for the search input"
+msgstr ""
+
+#: includes/elements/search-element.class.php:185
+msgid "Input Text Color"
+msgstr ""
+
+#: includes/elements/search-element.class.php:188
+msgid "the color of search input text"
+msgstr ""
+
+#: includes/elements/search-element.class.php:199
+msgid "Search Placeholder Color"
+msgstr ""
+
+#: includes/elements/search-element.class.php:202
+msgid "the color of search placeholder text"
+msgstr ""
+
+#: includes/elements/search-element.class.php:213
+msgid "Search Icon Color"
+msgstr ""
+
+#: includes/elements/search-element.class.php:216
+msgid "the color for the search element icon"
+msgstr ""
+
+#: includes/elements/search-element.class.php:227
+msgid "Search Icon Hover Color"
+msgstr ""
+
+#: includes/elements/search-element.class.php:230
+msgid "the hover color for the search element icon"
+msgstr ""
+
+#: includes/elements/search-element.class.php:241
+#: includes/theme-settings/sticky.php:140
+msgid "Font Size"
+msgstr ""
+
+#: includes/elements/search-element.class.php:244
+#, php-format
+msgid "the font size of %1s search input text %2s"
+msgstr ""
+
+#: includes/elements/search-element.class.php:254
+msgid "Search Placeholder Font Size"
+msgstr ""
+
+#: includes/elements/search-element.class.php:257
+msgid "the font size of search placeholder text"
+msgstr ""
+
+#: includes/elements/search-element.class.php:267
+msgid "Search Icon Size"
+msgstr ""
+
+#: includes/elements/search-element.class.php:270
+msgid "the size of search element icon"
+msgstr ""
+
+#: includes/elements/search-element.class.php:280
+msgid "Input Background Color In Sticky"
+msgstr ""
+
+#: includes/elements/search-element.class.php:283
+msgid "The background color for the search input on sticky menu"
+msgstr ""
+
+#: includes/elements/search-element.class.php:294
+msgid "Input Text Color In Sticky"
+msgstr ""
+
+#: includes/elements/search-element.class.php:297
+msgid "the color of search input text on sticky menu"
+msgstr ""
+
+#: includes/elements/search-element.class.php:308
+msgid "Search Placeholder Color In Sticky"
+msgstr ""
+
+#: includes/elements/search-element.class.php:311
+msgid "the color of search placeholder text on sticky menu"
+msgstr ""
+
+#: includes/elements/search-element.class.php:322
+msgid "Search Icon Color In Sticky"
+msgstr ""
+
+#: includes/elements/search-element.class.php:325
+msgid "the color for the search element icon on sticky menu"
+msgstr ""
+
+#: includes/elements/search-element.class.php:336
+msgid "Input Background Color In Hamburger Bar"
+msgstr ""
+
+#: includes/elements/search-element.class.php:339
+msgid "The background color for the search input on hamburger bar"
+msgstr ""
+
+#: includes/elements/search-element.class.php:350
+msgid "Input Text Color In Hamburger Bar"
+msgstr ""
+
+#: includes/elements/search-element.class.php:353
+msgid "the color of search input text on hamburger bar"
+msgstr ""
+
+#: includes/elements/search-element.class.php:364
+msgid "Search Placeholder Color In Hamburger Bar"
+msgstr ""
+
+#: includes/elements/search-element.class.php:367
+msgid "the color of search placeholder text on hamburger bar"
+msgstr ""
+
+#: includes/elements/search-element.class.php:378
+msgid "Search Icon Color In Hamburger Bar"
+msgstr ""
+
+#: includes/elements/search-element.class.php:381
+msgid "the color for the search element icon on hamburger bar"
+msgstr ""
+
+#: includes/elements/search-element.class.php:392
+msgid "Search Spacing"
+msgstr ""
+
+#: includes/elements/search-element.class.php:395
+msgid ""
+"It specifies the left, right, top and bottom spaces of your search with "
+"respect to menu bar."
+msgstr ""
+
+#: includes/functions.php:195
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/functions.php:196
+msgid "Medium"
+msgstr ""
+
+#: includes/functions.php:197
+msgid "Large"
+msgstr ""
+
+#: includes/functions.php:223
+msgid "Full Size"
+msgstr ""
+
+#: includes/functions.php:316 stars-menu.php:772
+msgid "default"
+msgstr ""
+
+#: includes/general-settings.class.php:88 includes/help-settings.class.php:88
+#: includes/menu-item-settings.class.php:162
+#: includes/update-settings.class.php:88
+msgid "Show All"
+msgstr ""
+
+#: includes/general-settings.class.php:89
+msgid "Integration"
+msgstr ""
+
+#: includes/general-settings.class.php:90
+#: includes/menu-theme-settings.class.php:141
+#: includes/theme-settings/icons.php:12
+msgid "Icons"
+msgstr ""
+
+#: includes/general-settings.class.php:91
+#: includes/stars-menu-custom-item-types.class.php:123
+#: includes/stars-menu-custom-item-types.class.php:124
+msgid "Widget Area"
+msgstr ""
+
+#: includes/general-settings.class.php:92
+#: includes/menu-item-settings.class.php:170
+#: includes/menu-theme-settings.class.php:148
+#: includes/theme-settings/advanced.php:31
+msgid "Advanced"
+msgstr ""
+
+#: includes/general-settings.class.php:101
+msgid "Icon Sets"
+msgstr ""
+
+#: includes/general-settings.class.php:104
+#: includes/theme-settings/submenus.php:247
+#: includes/theme-settings/submenus.php:258
+#: includes/theme-settings/submenus.php:270
+msgid "this guide"
+msgstr ""
+
+#: includes/general-settings.class.php:106
+#, php-format
+msgid "Learn more from %s."
+msgstr ""
+
+#: includes/general-settings.class.php:114
+msgid "Manual Integration"
+msgstr ""
+
+#: includes/general-settings.class.php:120
+msgid "Manual Integration Code"
+msgstr ""
+
+#: includes/general-settings.class.php:128
+msgid "Custom Location"
+msgstr ""
+
+#: includes/general-settings.class.php:131
+msgid "Add Custom Menu Location"
+msgstr ""
+
+#: includes/general-settings.class.php:132
+#: includes/vendor/titan-framework/lib/class-option-ajax-button.php:100
+msgid "Please wait..."
+msgstr ""
+
+#: includes/general-settings.class.php:133
+#: includes/stars-menu-custom-location.php:101
+msgid "Done!"
+msgstr ""
+
+#: includes/general-settings.class.php:146
+msgid "Manage Widget Areas"
+msgstr ""
+
+#: includes/general-settings.class.php:154
+msgid "Active Menu Instances"
+msgstr ""
+
+#: includes/general-settings.class.php:162
+msgid "Responsive Breakpoint"
+msgstr ""
+
+#: includes/general-settings.class.php:165
+msgid ""
+"The viewport width at which the menu will collapse to mobile menu. The "
+"default is 910px. If you would like to change this to something like 768px, "
+msgstr ""
+
+#: includes/help-settings.class.php:89 includes/help-settings.class.php:116
+#: includes/help-settings.class.php:120
+msgid "Knowledgebase"
+msgstr ""
+
+#: includes/help-settings.class.php:90
+msgid "Support"
+msgstr ""
+
+#: includes/help-settings.class.php:102 includes/help-settings.class.php:106
+msgid "Support Center"
+msgstr ""
+
+#: includes/help-settings.class.php:103
+msgid ""
+"Didn't find the answer you needed in the Knowledgebase or Video Tutorials?  "
+"Visit the"
+msgstr ""
+
+#: includes/help-settings.class.php:117
+msgid "Search in the Knowledgebase for find your problem."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:163
+msgid "General"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:164
+#: includes/menu-item-settings.class.php:284
+#: includes/theme-settings/social-bar.php:25
+msgid "Icon"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:165
+#: includes/menu-item-settings.class.php:283
+#: includes/theme-settings/social-bar.php:24
+msgid "Image"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:166
+msgid "Layout"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:167
+msgid "Submenu"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:168
+msgid "Customize Style"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:169
+msgid "Responsive"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:187
+#: includes/vendor/titan-framework/lib/class-option-select-categories.php:35
+#: includes/vendor/titan-framework/lib/class-option-select-pages.php:27
+#: includes/vendor/titan-framework/lib/class-option-select-post-types.php:27
+#: includes/vendor/titan-framework/lib/class-option-select-posts.php:36
+msgid "Select"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:197
+#: includes/menu-item-settings.class.php:398
+msgid "Inherit"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:215
+msgid "Hide Text"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:219
+msgid ""
+"Select “on” to remove the link from this item; clicking a disabled link will "
+"not result in any URL being followed."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:220
+#: includes/menu-item-settings.class.php:232
+#: includes/menu-item-settings.class.php:244
+#: includes/menu-item-settings.class.php:257
+#: includes/menu-item-settings.class.php:269
+#: includes/menu-item-settings.class.php:631
+#: includes/menu-item-settings.class.php:643
+#: includes/menu-item-settings.class.php:655
+#: includes/menu-item-settings.class.php:667
+#: includes/menu-item-settings.class.php:679
+#: includes/theme-settings/base.php:89
+#: includes/theme-settings/descriptions.php:23
+#: includes/theme-settings/descriptions.php:34
+#: includes/theme-settings/descriptions.php:45
+#: includes/theme-settings/divider.php:23
+#: includes/theme-settings/divider.php:34
+#: includes/theme-settings/divider.php:45
+#: includes/theme-settings/divider.php:56
+#: includes/theme-settings/hamburger-options.php:95
+#: includes/theme-settings/images.php:33 includes/theme-settings/images.php:62
+#: includes/theme-settings/images.php:73
+#: includes/theme-settings/miscellaneous.php:36
+#: includes/theme-settings/mobile.php:23
+#: includes/theme-settings/social-bar.php:46
+#: includes/theme-settings/sticky.php:23 includes/theme-settings/sticky.php:64
+#: includes/theme-settings/submenus.php:173
+#: includes/theme-settings/submenus.php:184
+msgid "ON"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:221
+#: includes/menu-item-settings.class.php:233
+#: includes/menu-item-settings.class.php:245
+#: includes/menu-item-settings.class.php:258
+#: includes/menu-item-settings.class.php:270
+#: includes/menu-item-settings.class.php:632
+#: includes/menu-item-settings.class.php:644
+#: includes/menu-item-settings.class.php:656
+#: includes/menu-item-settings.class.php:668
+#: includes/menu-item-settings.class.php:680
+#: includes/theme-settings/base.php:90
+#: includes/theme-settings/descriptions.php:24
+#: includes/theme-settings/descriptions.php:35
+#: includes/theme-settings/descriptions.php:46
+#: includes/theme-settings/divider.php:24
+#: includes/theme-settings/divider.php:35
+#: includes/theme-settings/divider.php:46
+#: includes/theme-settings/divider.php:57
+#: includes/theme-settings/hamburger-options.php:96
+#: includes/theme-settings/images.php:34 includes/theme-settings/images.php:63
+#: includes/theme-settings/images.php:74
+#: includes/theme-settings/miscellaneous.php:37
+#: includes/theme-settings/mobile.php:24
+#: includes/theme-settings/social-bar.php:47
+#: includes/theme-settings/sticky.php:24 includes/theme-settings/sticky.php:65
+#: includes/theme-settings/submenus.php:174
+#: includes/theme-settings/submenus.php:185
+msgid "OFF"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:227
+msgid "Disable Link"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:231
+msgid "Do not display the text for this item"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:239
+msgid "Highlight Link"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:243
+msgid "Highlight this menu item"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:252
+msgid "Don't wrap title/label text"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:256
+msgid "Prevent the text from wrapping to a new line"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:264
+msgid "Show Item Description"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:268
+msgid "Whether the description of this item shown or not"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:276
+msgid "Social Item type"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:280
+msgid "It is used to specify the type of social item"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:291
+msgid "Select Icon"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:301
+msgid "Icon Color"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:318
+msgid "Icon Hover Color"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:339
+msgid "Icon Size"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:355
+#: includes/vendor/titan-framework/lib/class-option-gallery.php:143
+#: includes/vendor/titan-framework/lib/class-option-upload.php:273
+msgid "Select Image"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:367
+msgid "Inherit Featured Image"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:370
+#: includes/vendor/titan-framework/lib/class-option-enable.php:65
+#: includes/vendor/titan-framework/lib/class-option-enable.php:145
+msgid "Disabled"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:371
+msgid "Dynamically Inherit"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:374
+msgid ""
+"For Post Menu Items, automatically inherit the Post's featured image for "
+"this item."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:381
+#: includes/theme-settings/images.php:18
+msgid "Images Size"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:385
+msgid ""
+"This is the size of the actual file that will be served. You can choose from "
+"any registered image size in your setup. You can set a default to be "
+"inherited globally from theme settings."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:392
+msgid "Image Dimensions"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:396
+msgid ""
+"You can select inherit for Inherit settings from the menu instance "
+"settings , natural for display image at natural dimensions and custom for "
+"use a custom size, defined below"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:399
+msgid "Natural"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:400
+#: includes/menu-theme-settings.class.php:209
+#: includes/stars-menu-custom-item-types.class.php:116
+#: includes/stars-menu-custom-item-types.class.php:117
+msgid "Custom"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:407
+msgid "Custom Image Width"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:410
+msgid ""
+"Image width attribute (px). Do not include units. Only valid if \"Image "
+"Dimensions\" is set to \"Custom\" above."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:417
+msgid "Custom Image Height"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:420
+msgid ""
+"Image height attribute (px). Do not include units. Only valid if \"Image "
+"Dimensions\" is set to \"Custom\" above. Leave blank to maintain aspect "
+"ratio."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:427
+msgid "Item Layout"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:431
+#: includes/theme-settings/layout.php:21 includes/theme-settings/layout.php:66
+msgid "Text Only"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:432
+#: includes/theme-settings/layout.php:22 includes/theme-settings/layout.php:67
+msgid "Text & Image"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:433
+#: includes/theme-settings/layout.php:23 includes/theme-settings/layout.php:68
+msgid "Text & Icon"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:434
+#: includes/theme-settings/layout.php:24 includes/theme-settings/layout.php:69
+msgid "Icon Only"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:435
+#: includes/theme-settings/layout.php:25 includes/theme-settings/layout.php:70
+msgid "Image Only"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:438
+msgid ""
+"It specifies the layout of item content. If choose the default option, it "
+"follows the default settings."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:445
+msgid "Item Content Alignment"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:451
+#: includes/theme-settings/layout.php:54 includes/theme-settings/layout.php:99
+msgid "Center"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:461
+msgid "Icon Position"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:465
+#: includes/menu-item-settings.class.php:482
+#: includes/theme-settings/layout.php:37 includes/theme-settings/layout.php:82
+msgid "Above"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:466
+#: includes/menu-item-settings.class.php:483
+#: includes/theme-settings/layout.php:38 includes/theme-settings/layout.php:83
+msgid "Below"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:471
+msgid "It is used to specify the position of item Icon"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:478
+msgid "Image Position"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:488
+msgid "It is used to specify the position of item Image"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:495
+msgid "Dropdown Position"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:503
+msgid ""
+"It allows you to specify the submenu position with respect to this item(it "
+"is only utilized for Top Level Menu Items)."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:510
+msgid "Dropdown Trigger"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:518
+msgid ""
+"Open the Submenu via this trigger(it is only utilized for Top Level Menu "
+"Items)."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:525
+msgid "Submenu Width"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:528
+msgid ""
+"It specifies the default width of submenu for this item on desktop(it is "
+"only utilized for Top Level Menu Items)."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:545
+msgid "Submenu Background Image"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:548
+msgid "This will add a background image to your submenu."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:564
+msgid "Submenu Repeat Background Image"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:567
+#: includes/theme-settings/menu-bar.php:126
+#: includes/theme-settings/mobile.php:145
+#: includes/theme-settings/submenus.php:239
+msgid "No Repeat"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:568
+#: includes/theme-settings/menu-bar.php:127
+#: includes/theme-settings/mobile.php:146
+#: includes/theme-settings/submenus.php:240
+msgid "Repeat"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:569
+#: includes/theme-settings/menu-bar.php:128
+#: includes/theme-settings/mobile.php:147
+#: includes/theme-settings/submenus.php:241
+msgid "Repeat X (Horizontal)"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:570
+#: includes/theme-settings/menu-bar.php:129
+#: includes/theme-settings/mobile.php:148
+#: includes/theme-settings/submenus.php:242
+msgid "Repeat Y (Vertical)"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:571
+#: includes/theme-settings/menu-bar.php:130
+#: includes/theme-settings/mobile.php:149
+#: includes/theme-settings/submenus.php:243
+msgid "Space"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:572
+#: includes/theme-settings/menu-bar.php:131
+#: includes/theme-settings/mobile.php:150
+#: includes/theme-settings/submenus.php:244
+msgid "Round"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:575
+msgid "Set the repeat for your submenu background image."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:590
+msgid "Submenu Background Position"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:593
+msgid "Set the position for your submenu background image."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:608
+msgid "Submenu Background Size"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:611
+msgid "Try \"cover\" to cover the entire submenu."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:626
+msgid "Disable Item On Mobile"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:630
+msgid "Removes this item when mobile device is detected via wp_is_mobile()."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:638
+msgid "Disable Item On Desktop"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:642
+msgid ""
+"Removes this item when mobile device is NOT detected via wp_is_mobile()."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:650
+msgid "Hide below breakpoint"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:654
+msgid "Hides this item below the responsive breakpoint via CSS."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:662
+msgid "Hide above breakpoint"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:666
+msgid "Hides this item above the responsive breakpoint via CSS."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:674
+msgid "Disable submenu on mobile"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:678
+msgid ""
+"Removes this item's submenu when mobile device is detected via "
+"wp_is_mobile()."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:686
+msgid "Custom Content"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:690
+msgid "Can contain HTML and shortcodes"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:697
+msgid "Select Widget Area"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:701
+#, php-format
+msgid ""
+"You need create new custom widget area %1$s And then you can choose the "
+"widget area via this setting. you can manage and assign the widgets %2$s"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:702
+#: includes/menu-item-settings.class.php:703 stars-menu.php:671
+msgid "here"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:711
+msgid "Custom Widget Areas"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:714
+msgid "Manage Custom Widget Areas"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:721
+msgid "Custom Content Padding"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:724
+msgid ""
+"Set the padding for this specific Item Custom Content or Item Widget Area"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:739
+#: includes/theme-settings/hamburger-options.php:146
+#: includes/theme-settings/menu-bar.php:97
+#: includes/theme-settings/mobile.php:102
+#: includes/theme-settings/sticky.php:112
+#: includes/theme-settings/submenus.php:210
+msgid "Background Color"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:743
+msgid "The background color for this item"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:770
+msgid "Border Color"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:774
+msgid "The Border color for this item."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:801
+msgid "Font Color"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:805
+msgid "The text color for this item."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:820
+msgid "Background Color (hover)"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:824
+msgid "The background color for this item on hover(focus and active)."
+msgstr ""
+
+#: includes/menu-item-settings.class.php:866
+msgid "Border Color (hover)"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:870
+msgid "The border color for this item on hover(focus and active)"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:918
+msgid "Font Color (hover)"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:922
+msgid "The text color for this item on hover(focus and active)"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:945
+msgid "Background Color (Current)"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:949
+msgid "The Background Color for this item on current mode"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:994
+msgid "Border Color (Current)"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:998
+msgid "The Border Color for this item on current mode"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1048
+msgid "Font Color (Current)"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1052
+msgid "The Text Color for this item on current mode"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1071
+msgid "Padding"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1074
+msgid "Set the padding for this specific item"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1087
+msgid "Margin"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1090
+msgid "Set the margin for this specific item"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1117
+msgid "Submenu Background Color"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1121
+msgid "The background color for the submenu of this item"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1137
+msgid "Submenu Font Color"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1141
+msgid "The Text color for the submenu of this item"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1156
+msgid "Submenu Padding"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1159
+msgid "Set the padding for this specific Submenu"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1221
+#: includes/stars-menu-options-manager.class.php:304
+msgid "Search Settings"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1222
+#: includes/menu-item-settings.class.php:1227
+#: includes/stars-menu-options-manager.class.php:305
+#: includes/theme-settings/base.php:24
+msgid "Full Screen"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1232
+msgid "Clear item settings"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1239
+msgid "Save Menu Item"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1272
+#: includes/menu-item-settings.class.php:1297 stars-menu.php:881
+msgid "Send data is invalid"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1320
+msgid "Cheatin oh?"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1334
+msgid "This menu item is not valid"
+msgstr ""
+
+#: includes/menu-item-settings.class.php:1376
+msgid "Success settings saved"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:80
+msgid "Default Theme Configuration"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:131
+#: includes/theme-settings/base.php:12
+msgid "Basic Configuration"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:132
+#: includes/theme-settings/menu-bar.php:12
+msgid "Menu Bar"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:133
+msgid "Top Level Items"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:134
+msgid "Hamburger"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:135
+msgid "Position &amp; Layout"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:136
+#: includes/theme-settings/submenus.php:13
+msgid "Submenus"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:137
+msgid "Descriptions"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:138
+#: includes/theme-settings/images.php:12
+msgid "Images"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:139
+msgid "Responsive &amp; Mobile"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:142
+#: includes/theme-settings/miscellaneous.php:12
+msgid "Miscellaneous"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:145
+#: includes/vendor/titan-framework/lib/class-option-sub-nav-bar.php:78
+msgid "Sub Navigation Bar"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:146
+msgid "WooCommerce Cart Icon"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:147
+#: includes/theme-settings/social-bar.php:12
+#: includes/vendor/titan-framework/lib/class-option-sub-nav-bar.php:113
+#: includes/vendor/titan-framework/lib/class-option-sub-nav-bar.php:157
+msgid "Social Bar"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:149
+msgid "Sticky"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:150
+#: includes/theme-settings/divider.php:12
+msgid "Divider"
+msgstr ""
+
+#: includes/menu-theme-settings.class.php:241
+msgid "Menu Design & Order"
+msgstr ""
+
+#: includes/stars-menu-css-manager.class.php:127
+msgid "Changing File Permissions"
+msgstr ""
+
+#: includes/stars-menu-css-manager.class.php:129
+#, php-format
+msgid ""
+"You have do not permission to write files in \"Upload\" directory. please "
+"modify file permissions , using %s page for help"
+msgstr ""
+
+#: includes/stars-menu-css-manager.class.php:531
+msgid ""
+"Warning: CSS compilation failed. Please check your changes and fields "
+"validation errors"
+msgstr ""
+
+#: includes/stars-menu-custom-item-types.class.php:109
+msgid "Social"
+msgstr ""
+
+#: includes/stars-menu-custom-item-types.class.php:110
+msgid "Social Item"
+msgstr ""
+
+#: includes/stars-menu-custom-item-types.class.php:112
+msgid "Using For Create Social Bar"
+msgstr ""
+
+#: includes/stars-menu-custom-item-types.class.php:119
+msgid "Using For Create Any Custom Item"
+msgstr ""
+
+#: includes/stars-menu-custom-item-types.class.php:126
+msgid "Using For Create Any Widget Area Item"
+msgstr ""
+
+#: includes/stars-menu-custom-item-types.class.php:138
+msgid "StarsMenu Advanced Items"
+msgstr ""
+
+#: includes/stars-menu-custom-item-types.class.php:204
+#: includes/vendor/titan-framework/lib/class-option-multicheck.php:40
+#: includes/vendor/titan-framework/lib/class-option-multicheck.php:189
+msgid "Select All"
+msgstr ""
+
+#: includes/stars-menu-custom-item-types.class.php:208
+msgid "Add to Menu"
+msgstr ""
+
+#: includes/stars-menu-custom-location.php:171
+msgid "Delete Location"
+msgstr ""
+
+#: includes/stars-menu-custom-location.php:178
+msgid "PHP"
+msgstr ""
+
+#: includes/stars-menu-custom-location.php:181
+msgid "Shortcode"
+msgstr ""
+
+#: includes/stars-menu-custom-location.php:184
+msgid "Widget"
+msgstr ""
+
+#: includes/stars-menu-custom-location.php:185
+msgid "Add the 'Stars Menu' widget to a widget area."
+msgstr ""
+
+#: includes/stars-menu-custom-location.php:189
+#, php-format
+msgid "Click to select, then %1$s or %2$s to copy to clipboard"
+msgstr ""
+
+#: includes/stars-menu-custom-location.php:195
+msgid ""
+"Pick the appropriate code and add to your theme template or content where "
+"you want the menu to appear."
+msgstr ""
+
+#: includes/stars-menu-custom-widget-area.php:183
+#: includes/vendor/titan-framework/lib/class-option-custom-widget-areas.php:40
+msgid "Name:"
+msgstr ""
+
+#: includes/stars-menu-custom-widget-area.php:185
+msgid "Stars Menu Widget Area"
+msgstr ""
+
+#: includes/stars-menu-element-manager.class.php:83
+msgid "No Title"
+msgstr ""
+
+#: includes/stars-menu-options-manager.class.php:283
+msgid "Menu Designer"
+msgstr ""
+
+#: includes/stars-menu-options-manager.class.php:290
+msgid "Settings"
+msgstr ""
+
+#: includes/stars-menu-options-manager.class.php:297
+msgid "Styling"
+msgstr ""
+
+#: includes/stars-menu-options-manager.class.php:474
+#: includes/stars-menu-options-manager.class.php:475
+msgid "Stars Menu"
+msgstr ""
+
+#: includes/stars-menu-options-manager.class.php:493
+msgid "General Settings"
+msgstr ""
+
+#: includes/stars-menu-options-manager.class.php:505
+msgid "Help"
+msgstr ""
+
+#: includes/stars-menu-options-manager.class.php:517
+msgid "Update"
+msgstr ""
+
+#: includes/stars-menu-updater.class.php:139
+msgid "Updates Info Page"
+msgstr ""
+
+#: includes/stars-menu-updater.class.php:141
+msgid ""
+"Stars Menu Plugin : you have do not a verified purchase code , you need "
+"enter a valid purchase code for next updates. please go to Updates Info Page "
+"and enter your purchase code and envato username."
+msgstr ""
+
+#: includes/stars-menu-updater.class.php:208
+msgid "StarsMenu update check error:"
+msgstr ""
+
+#: includes/stars-menu-widget.class.php:35
+msgid "Outputs a menu for a selected theme location."
+msgstr ""
+
+#: includes/stars-menu-widget.class.php:113
+msgid "Title:"
+msgstr ""
+
+#: includes/stars-menu-widget.class.php:116
+msgid "Menu Location:"
+msgstr ""
+
+#: includes/stars-menu-widget.class.php:125
+msgid "No menu locations found"
+msgstr ""
+
+#: includes/theme-settings/advanced.php:11
+msgid ""
+"Define any custom CSS you wish to add to menus using this theme. You can use "
+"standard CSS or SCSS."
+msgstr ""
+
+#: includes/theme-settings/advanced.php:37
+msgid "CSS Editor"
+msgstr ""
+
+#: includes/theme-settings/base.php:18
+msgid "Menu Design"
+msgstr ""
+
+#: includes/theme-settings/base.php:21
+msgid "Modern Horizontal"
+msgstr ""
+
+#: includes/theme-settings/base.php:22
+msgid "Side Panel"
+msgstr ""
+
+#: includes/theme-settings/base.php:23
+msgid "Mega Menu"
+msgstr ""
+
+#: includes/theme-settings/base.php:27
+msgid "type of menu design"
+msgstr ""
+
+#: includes/theme-settings/base.php:33
+msgid "Horizontal Menu Type"
+msgstr ""
+
+#: includes/theme-settings/base.php:36
+msgid "Normal"
+msgstr ""
+
+#: includes/theme-settings/base.php:37
+msgid "Hamburger Menu"
+msgstr ""
+
+#: includes/theme-settings/base.php:40
+msgid ""
+"This setting specify the type of horizontal menu which could be normal or  "
+"hamburger menu"
+msgstr ""
+
+#: includes/theme-settings/base.php:46
+msgid "Hover Animation Type For Top Level"
+msgstr ""
+
+#: includes/theme-settings/base.php:49
+msgid "Without Hover Animation"
+msgstr ""
+
+#: includes/theme-settings/base.php:50
+msgid "Animation Type 1"
+msgstr ""
+
+#: includes/theme-settings/base.php:51
+msgid "Animation Type 2"
+msgstr ""
+
+#: includes/theme-settings/base.php:52
+msgid "Animation Type 3"
+msgstr ""
+
+#: includes/theme-settings/base.php:53
+msgid "Animation Type 4"
+msgstr ""
+
+#: includes/theme-settings/base.php:54
+msgid "Animation Type 5"
+msgstr ""
+
+#: includes/theme-settings/base.php:55
+msgid "Animation Type 6"
+msgstr ""
+
+#: includes/theme-settings/base.php:56
+msgid "Animation Type 7"
+msgstr ""
+
+#: includes/theme-settings/base.php:57
+msgid "Animation Type 8"
+msgstr ""
+
+#: includes/theme-settings/base.php:58
+msgid "Animation Type 9"
+msgstr ""
+
+#: includes/theme-settings/base.php:59
+msgid "Animation Type 10"
+msgstr ""
+
+#: includes/theme-settings/base.php:60
+msgid "Animation Type 11"
+msgstr ""
+
+#: includes/theme-settings/base.php:61
+msgid "Animation Type 12"
+msgstr ""
+
+#: includes/theme-settings/base.php:62
+msgid "Animation Type 13"
+msgstr ""
+
+#: includes/theme-settings/base.php:63
+msgid "Animation Type 14"
+msgstr ""
+
+#: includes/theme-settings/base.php:64
+msgid "Animation Type 15"
+msgstr ""
+
+#: includes/theme-settings/base.php:65
+msgid "Animation Type 16"
+msgstr ""
+
+#: includes/theme-settings/base.php:66
+msgid "Animation Type 17"
+msgstr ""
+
+#: includes/theme-settings/base.php:67
+msgid "Animation Type 18"
+msgstr ""
+
+#: includes/theme-settings/base.php:68
+msgid "Animation Type 19"
+msgstr ""
+
+#: includes/theme-settings/base.php:69
+msgid "Animation Type 20"
+msgstr ""
+
+#: includes/theme-settings/base.php:70
+msgid "Animation Type 21"
+msgstr ""
+
+#: includes/theme-settings/base.php:71
+msgid "Animation Type 22"
+msgstr ""
+
+#: includes/theme-settings/base.php:72
+msgid "Animation Type 23"
+msgstr ""
+
+#: includes/theme-settings/base.php:73
+msgid "Animation Type 24"
+msgstr ""
+
+#: includes/theme-settings/base.php:74
+msgid "Animation Type 25"
+msgstr ""
+
+#: includes/theme-settings/base.php:75
+msgid "Animation Type 26"
+msgstr ""
+
+#: includes/theme-settings/base.php:78
+msgid ""
+"This setting specifies the animation type of Top Level Menu items hover on "
+"the desktop. If you want to use normal hover for these items, choose the "
+"Without Hover Animation."
+msgstr ""
+
+#: includes/theme-settings/base.php:84
+msgid "Top Level Full Height"
+msgstr ""
+
+#: includes/theme-settings/base.php:88
+msgid ""
+"This setting allows you to set the height of top level menu items equal to "
+"menu bar height. In other words, the height of top level menu items will be "
+"full."
+msgstr ""
+
+#: includes/theme-settings/base.php:95
+msgid "Scroll Animate For Anchor : "
+msgstr ""
+
+#: includes/theme-settings/base.php:98
+msgid ""
+"This feature allows you to specify the type of animation for scrolls. (The "
+"type of scroll animation when Anchor is clicked.) "
+msgstr ""
+
+#: includes/theme-settings/base.php:101
+msgid "without using animate"
+msgstr ""
+
+#: includes/theme-settings/base.php:102
+msgid "easeInOutQuint "
+msgstr ""
+
+#: includes/theme-settings/base.php:103
+msgid "easeOutQuad"
+msgstr ""
+
+#: includes/theme-settings/base.php:104
+msgid "swing "
+msgstr ""
+
+#: includes/theme-settings/base.php:105
+msgid "easeInQuad"
+msgstr ""
+
+#: includes/theme-settings/base.php:106
+msgid "easeInOutQuad"
+msgstr ""
+
+#: includes/theme-settings/base.php:107
+msgid "easeInCubic"
+msgstr ""
+
+#: includes/theme-settings/base.php:108
+msgid "easeOutCubic"
+msgstr ""
+
+#: includes/theme-settings/base.php:109
+msgid "easeInOutCubic"
+msgstr ""
+
+#: includes/theme-settings/base.php:110
+msgid "easeInQuart"
+msgstr ""
+
+#: includes/theme-settings/base.php:111
+msgid "easeOutQuart "
+msgstr ""
+
+#: includes/theme-settings/base.php:112
+msgid "easeInOutQuart"
+msgstr ""
+
+#: includes/theme-settings/base.php:113
+msgid "easeInQuint "
+msgstr ""
+
+#: includes/theme-settings/base.php:114
+msgid "easeOutQuint"
+msgstr ""
+
+#: includes/theme-settings/base.php:115
+msgid "easeInSine"
+msgstr ""
+
+#: includes/theme-settings/base.php:116
+msgid "easeOutSine"
+msgstr ""
+
+#: includes/theme-settings/base.php:117
+msgid "easeInOutSine"
+msgstr ""
+
+#: includes/theme-settings/base.php:118
+msgid "easeInExpo"
+msgstr ""
+
+#: includes/theme-settings/base.php:119
+msgid "easeOutExpo"
+msgstr ""
+
+#: includes/theme-settings/base.php:120
+msgid "easeInOutExpo"
+msgstr ""
+
+#: includes/theme-settings/base.php:121
+msgid "easeInCirc"
+msgstr ""
+
+#: includes/theme-settings/base.php:122
+msgid "easeOutCirc "
+msgstr ""
+
+#: includes/theme-settings/base.php:123
+msgid "easeInOutCirc"
+msgstr ""
+
+#: includes/theme-settings/base.php:124
+msgid "easeInElastic"
+msgstr ""
+
+#: includes/theme-settings/base.php:125
+msgid "easeOutElastic"
+msgstr ""
+
+#: includes/theme-settings/base.php:126
+msgid "easeInOutElastic"
+msgstr ""
+
+#: includes/theme-settings/base.php:127
+msgid "easeInBack"
+msgstr ""
+
+#: includes/theme-settings/base.php:128
+msgid "easeOutBack"
+msgstr ""
+
+#: includes/theme-settings/base.php:129
+msgid "easeInOutBack"
+msgstr ""
+
+#: includes/theme-settings/base.php:130
+msgid "easeInBounce"
+msgstr ""
+
+#: includes/theme-settings/base.php:131
+msgid "easeOutBounce"
+msgstr ""
+
+#: includes/theme-settings/base.php:132
+msgid "easeInOutBounce "
+msgstr ""
+
+#: includes/theme-settings/base.php:139
+msgid "scroll Animate Duration"
+msgstr ""
+
+#: includes/theme-settings/base.php:142
+msgid ""
+"This feature allows you to specify the time it takes to, after clicking the "
+"Anchors, scroll move as animated to reach the target."
+msgstr ""
+
+#: includes/theme-settings/base.php:148
+msgid "Arrows"
+msgstr ""
+
+#: includes/theme-settings/base.php:154
+msgid "Select Items Arrow"
+msgstr ""
+
+#: includes/theme-settings/base.php:157
+msgid ""
+"It selects Arrow for items which have submenus (for Parent Items). Top Level "
+"Menu Items does not support Arrow on the desktop in version 1.0.0"
+msgstr ""
+
+#: includes/theme-settings/base.php:163
+msgid "Select Back Items Arrow"
+msgstr ""
+
+#: includes/theme-settings/base.php:166
+msgid ""
+"Select Arrow for Back Items (all submenus except Top Level Menu submenus on "
+"the desktop, at the top of submenus have an item to return to previous "
+"submenu)."
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:12
+msgid "Description"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:18
+msgid "Top Level Descriptions"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:22
+msgid "Allow descriptions on top level menu items."
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:29
+msgid "Normal Items Descriptions"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:33
+msgid "Allow descriptions on normal menu items."
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:40
+msgid "Show Items Descriptions On Mobile"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:44
+msgid "Allow descriptions on mobile menu items."
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:51
+msgid "Descriptions Styles"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:58
+msgid "Top Level Descriptions Font Size"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:71
+msgid "Top Level Descriptions Opacity"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:74
+msgid "This will set transparency for top level menu items Descriptions"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:87
+msgid "Top Level Descriptions Text Transform"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:90
+msgid ""
+"This will control the capitalization of top level menu items Descriptions."
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:93
+#: includes/theme-settings/descriptions.php:140
+#: includes/theme-settings/menu-bar.php:196
+#: includes/theme-settings/mobile.php:280
+#: includes/theme-settings/mobile.php:336
+#: includes/theme-settings/submenus.php:294
+#: includes/theme-settings/submenus.php:477
+#: includes/theme-settings/submenus.php:533
+#: includes/theme-settings/top-level-items.php:78
+#: includes/theme-settings/top-level-items.php:187
+#: includes/vendor/titan-framework/lib/class-option-menu-integrate.php:44
+msgid "None"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:94
+#: includes/theme-settings/descriptions.php:141
+#: includes/theme-settings/mobile.php:281
+#: includes/theme-settings/submenus.php:478
+#: includes/theme-settings/top-level-items.php:79
+msgid "Capitalize"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:95
+#: includes/theme-settings/descriptions.php:142
+#: includes/theme-settings/mobile.php:282
+#: includes/theme-settings/submenus.php:479
+#: includes/theme-settings/top-level-items.php:80
+msgid "Uppercase"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:96
+#: includes/theme-settings/descriptions.php:143
+#: includes/theme-settings/mobile.php:283
+#: includes/theme-settings/submenus.php:480
+#: includes/theme-settings/top-level-items.php:81
+msgid "Lowercase"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:105
+msgid "Normal Items Descriptions Font Size"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:118
+msgid "Normal Items Descriptions Opacity"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:121
+msgid "This will set transparency for normal menu items Descriptions"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:134
+msgid "Normal Items Descriptions Text Transform"
+msgstr ""
+
+#: includes/theme-settings/descriptions.php:137
+msgid "This will control the capitalization of normal menu items Descriptions."
+msgstr ""
+
+#: includes/theme-settings/divider.php:18
+msgid "Enable Divider For Elements?"
+msgstr ""
+
+#: includes/theme-settings/divider.php:22
+msgid "Enable or disable divider for elements"
+msgstr ""
+
+#: includes/theme-settings/divider.php:29
+msgid "Enable Divider For Mobile Menu Items?"
+msgstr ""
+
+#: includes/theme-settings/divider.php:33
+msgid "Enable or disable divider for mobile menu items"
+msgstr ""
+
+#: includes/theme-settings/divider.php:40
+msgid "Enable Divider For Top Level Items?"
+msgstr ""
+
+#: includes/theme-settings/divider.php:44
+msgid "Enable or disable divider for top level menu items"
+msgstr ""
+
+#: includes/theme-settings/divider.php:51
+msgid "Enable Divider For Submenus Items?"
+msgstr ""
+
+#: includes/theme-settings/divider.php:55
+msgid "Enable or disable divider for submenus items"
+msgstr ""
+
+#: includes/theme-settings/divider.php:62
+msgid "Elements Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:69
+msgid "Elements Divider Width"
+msgstr ""
+
+#: includes/theme-settings/divider.php:72
+msgid "This will set width for your Elements Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:82
+msgid "Elements Divider Height"
+msgstr ""
+
+#: includes/theme-settings/divider.php:85
+msgid "This will set height for your Elements Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:95
+msgid "Elements Divider Color"
+msgstr ""
+
+#: includes/theme-settings/divider.php:98
+msgid "The color of Elements Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:109
+msgid "Elements Divider Corners Size"
+msgstr ""
+
+#: includes/theme-settings/divider.php:112
+msgid "This will allow you to add rounded corners to your Elements Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:122
+msgid "Elements Between Spacing"
+msgstr ""
+
+#: includes/theme-settings/divider.php:125
+msgid ""
+"You can specify the space between elements on the menu bar by using this "
+"setting."
+msgstr ""
+
+#: includes/theme-settings/divider.php:135
+msgid "Elements Divider Color on Sticky"
+msgstr ""
+
+#: includes/theme-settings/divider.php:138
+msgid "The color of Elements Divider on sticky menu"
+msgstr ""
+
+#: includes/theme-settings/divider.php:149
+msgid "Elements Divider Color on Hamburger Bar"
+msgstr ""
+
+#: includes/theme-settings/divider.php:152
+msgid "The color of Elements Divider on Hamburger Bar"
+msgstr ""
+
+#: includes/theme-settings/divider.php:163
+msgid "Mobile Items Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:170
+msgid "Mobile Items Divider Width"
+msgstr ""
+
+#: includes/theme-settings/divider.php:173
+msgid "This will set width for your Items Divider on mobile menu"
+msgstr ""
+
+#: includes/theme-settings/divider.php:183
+msgid "Mobile Items Divider Height"
+msgstr ""
+
+#: includes/theme-settings/divider.php:186
+msgid "This will set height for your Items Divider on mobile menu"
+msgstr ""
+
+#: includes/theme-settings/divider.php:196
+msgid "Mobile Items Divider Color"
+msgstr ""
+
+#: includes/theme-settings/divider.php:199
+msgid "The color of Items Divider on mobile menu"
+msgstr ""
+
+#: includes/theme-settings/divider.php:210
+msgid "Top Level Menu Items Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:217
+#: includes/theme-settings/divider.php:305
+msgid "Items Divider Width"
+msgstr ""
+
+#: includes/theme-settings/divider.php:220
+msgid "This will set width for your top level menu items Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:230
+#: includes/theme-settings/divider.php:318
+msgid "Items Divider Height"
+msgstr ""
+
+#: includes/theme-settings/divider.php:233
+msgid "This will set height for your top level menu items Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:243
+#: includes/theme-settings/divider.php:331
+msgid "Items Divider Color"
+msgstr ""
+
+#: includes/theme-settings/divider.php:246
+msgid "The color of top level menu items Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:257
+msgid "Items Divider Corners Size"
+msgstr ""
+
+#: includes/theme-settings/divider.php:260
+msgid ""
+"This will allow you to add rounded corners to your top level menu items "
+"divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:270
+msgid "Items Divider Color on Sticky"
+msgstr ""
+
+#: includes/theme-settings/divider.php:273
+msgid "The color of top level menu items divider on sticky menu"
+msgstr ""
+
+#: includes/theme-settings/divider.php:284
+msgid "Items Divider Color on Hamburger Bar"
+msgstr ""
+
+#: includes/theme-settings/divider.php:287
+msgid "The color of top level menu items divider on Hamburger Bar"
+msgstr ""
+
+#: includes/theme-settings/divider.php:298
+msgid "Submenus Items Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:308
+msgid "This will set width for your submenus items Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:321
+msgid "This will set height for your submenus items Divider"
+msgstr ""
+
+#: includes/theme-settings/divider.php:334
+msgid "The color of submenus items Divider"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:12
+msgid "Hamburger Options"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:18
+msgid "Hamburger Icon Animation"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:21
+msgid "Animation 1"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:22
+msgid "Animation 2"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:23
+msgid "Animation 3"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:24
+msgid "Animation 4"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:25
+msgid "Animation 5"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:26
+msgid "Animation 6"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:27
+msgid "Animation 7"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:32
+msgid "Animation 8"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:33
+msgid "Animation 9"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:34
+msgid "Animation 10"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:35
+msgid "Animation 11"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:36
+msgid "Animation 12"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:37
+msgid "Animation 13"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:40
+msgid ""
+"It is used to specify different animations for opening and closing the "
+"Hamburger Icon."
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:46
+msgid "Trigger"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:53
+msgid "Open the Hamburger Bar via this trigger"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:59
+msgid "Hamburger Bar Animation"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:62
+#: includes/theme-settings/submenus.php:101
+msgid "fadeIn"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:63
+#: includes/theme-settings/submenus.php:102
+msgid "fadeInDown"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:64
+#: includes/theme-settings/submenus.php:103
+msgid "fadeInLeft"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:65
+#: includes/theme-settings/submenus.php:104
+msgid "fadeInRight"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:66
+#: includes/theme-settings/submenus.php:105
+msgid "fadeInUp"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:68
+#: includes/theme-settings/submenus.php:107
+msgid "flipInX"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:69
+#: includes/theme-settings/submenus.php:108
+msgid "flipInY"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:70
+#: includes/theme-settings/submenus.php:109
+msgid "lightSpeedIn"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:71
+#: includes/theme-settings/submenus.php:110
+msgid "rotateIn"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:72
+#: includes/theme-settings/submenus.php:111
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:73
+#: includes/theme-settings/submenus.php:112
+msgid "rotateInDownRight"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:74
+#: includes/theme-settings/submenus.php:113
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:75
+#: includes/theme-settings/submenus.php:114
+msgid "rotateInUpRight"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:76
+#: includes/theme-settings/submenus.php:115
+msgid "zoomIn"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:77
+#: includes/theme-settings/submenus.php:116
+msgid "zoomInDown"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:78
+#: includes/theme-settings/submenus.php:117
+msgid "zoomInLeft"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:79
+#: includes/theme-settings/submenus.php:118
+msgid "zoomInRight"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:80
+#: includes/theme-settings/submenus.php:119
+msgid "zoomInUp"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:81
+#: includes/theme-settings/submenus.php:120
+msgid "rollIn"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:84
+msgid "Select a animation for when open the Hamburger Bar"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:90
+msgid "Enable Background For Hamburger Bar?"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:94
+msgid "Enable or Disable background for Hamburger Bar"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:101
+msgid "Background Animation"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:104
+msgid "fade"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:105
+msgid "back pulse"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:106
+msgid "sweep to right"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:107
+msgid "sweep to left"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:108
+msgid "sweep to bottom"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:109
+msgid "sweep to top"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:110
+msgid "bounce to right"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:111
+msgid "bounce to left"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:112
+msgid "bounce to bottom"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:113
+msgid "bounce to top"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:117
+msgid "rectangle"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:118
+msgid "shutter in horizontal"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:119
+msgid "shutter out horizontal"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:120
+msgid "shutter in vertical"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:121
+msgid "shutter out vertical"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:124
+msgid ""
+"Select Animation for background of Hamburger Bar (this setting is accessible "
+"when the background of Hamburger Bar is enabled)"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:130
+msgid "Hamburger Bar Close Hover Delay"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:133
+msgid ""
+"It specifies the delay amount of Hamburger Bar when the mouse is completely "
+"away from the menu (this setting is applied when the opening Trigger of "
+"Hamburger Bar is Hover)."
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:139
+msgid "Hamburger Bar Style"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:149
+msgid "The background color for the hamburger bar."
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:160
+#: includes/theme-settings/sticky.php:126
+msgid "Text Color"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:163
+msgid "The text color for the top level main items on hamburger bar."
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:174
+msgid "Hamburger Icon Style"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:181
+msgid "Hamburger Icon Width"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:184
+msgid ""
+"The width of Hamburger Icon will be changed using this setting and as a "
+"result, the width of Hamburger Icon lines will be changed."
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:194
+msgid "Hamburger Icon Height"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:197
+msgid ""
+"The height of Hamburger Icon will be changed using this setting and as a "
+"result, the space of between lines  (spacing) will be changed."
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:207
+msgid "Hamburger Icon Bar Height"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:210
+msgid ""
+"This setting allows you to change the thickness of Hamburger Icon lines."
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:220
+msgid "Hamburger Icon Color"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:223
+msgid "The color for hamburger icon."
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:234
+msgid "Hamburger Icon Color In Sticky Menu"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:237
+msgid "The color for hamburger icon in the sticky menu."
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:248
+msgid "Hamburger Icon Color In Open Hamburger Bar"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:251
+msgid "The color for hamburger icon in the Hamburger Bar."
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:262
+msgid "Hamburger Icon Spacing"
+msgstr ""
+
+#: includes/theme-settings/hamburger-options.php:265
+msgid ""
+"It specifies the left, right, top and bottom spaces of Hamburger Icon with "
+"respect to menu bar."
+msgstr ""
+
+#: includes/theme-settings/icons.php:18
+msgid "Top Level Icons Size"
+msgstr ""
+
+#: includes/theme-settings/icons.php:21
+msgid "The Size of icons for Top Level Menu Items"
+msgstr ""
+
+#: includes/theme-settings/icons.php:30
+msgid "Submenus Icons Size"
+msgstr ""
+
+#: includes/theme-settings/icons.php:33
+msgid "The Size of icons for submenus Items."
+msgstr ""
+
+#: includes/theme-settings/icons.php:61
+msgid "Icons Tag"
+msgstr ""
+
+#: includes/theme-settings/icons.php:68
+msgid "The HTML tag to use for the icons."
+msgstr ""
+
+#: includes/theme-settings/icons.php:74
+msgid "Icons Style"
+msgstr ""
+
+#: includes/theme-settings/icons.php:81
+msgid "Icon Spacing From Text"
+msgstr ""
+
+#: includes/theme-settings/icons.php:84
+msgid ""
+"If the type of your item layout were 'Text & Icon', using this setting you "
+"can control the space between text and image (this setting is only used for "
+"Top Level Menu Items)."
+msgstr ""
+
+#: includes/theme-settings/icons.php:94
+msgid "Icon Spacing From Text In Submenus"
+msgstr ""
+
+#: includes/theme-settings/icons.php:97
+msgid ""
+"If the type of your item layout were 'Text & Icon', using this setting you "
+"can control the space between text and image (this setting is only used for "
+"submenus Items)."
+msgstr ""
+
+#: includes/theme-settings/images.php:22
+msgid "Image sizes can be overridden on individual menu items"
+msgstr ""
+
+#: includes/theme-settings/images.php:28
+msgid "Set Image Dimensions"
+msgstr ""
+
+#: includes/theme-settings/images.php:32
+#: includes/theme-settings/social-bar.php:45
+msgid ""
+"Set the actual width and height attributes on an image if none are set "
+"manually."
+msgstr ""
+
+#: includes/theme-settings/images.php:39
+msgid "Image Width"
+msgstr ""
+
+#: includes/theme-settings/images.php:42
+#: includes/theme-settings/social-bar.php:55
+msgid ""
+"The width attribute value for menu item images in pixels. Do not include "
+"units. Leave blank to use actual dimensions."
+msgstr ""
+
+#: includes/theme-settings/images.php:48
+msgid "Image Height"
+msgstr ""
+
+#: includes/theme-settings/images.php:51
+#: includes/theme-settings/social-bar.php:64
+msgid ""
+"The height attribute value for menu item images in pixels. Do not include "
+"units. Leave blank to use actual dimensions."
+msgstr ""
+
+#: includes/theme-settings/images.php:57
+msgid "Use Image Title Attribute"
+msgstr ""
+
+#: includes/theme-settings/images.php:68
+msgid "Disable Images on Mobile"
+msgstr ""
+
+#: includes/theme-settings/images.php:72
+msgid ""
+"Detected via wp_is_mobile() - be aware if you set up caching, it would need "
+"to handle mobile device detection for this to work."
+msgstr ""
+
+#: includes/theme-settings/images.php:79
+msgid "Images Style"
+msgstr ""
+
+#: includes/theme-settings/images.php:86
+msgid "Image Spacing From Text"
+msgstr ""
+
+#: includes/theme-settings/images.php:89
+msgid ""
+"If the type of your item layout were 'Text & Image', using this setting you "
+"can control the space between text and image (this setting is only used for "
+"Top Level Menu Items)."
+msgstr ""
+
+#: includes/theme-settings/images.php:99
+msgid "Image Spacing From Text In Submenus"
+msgstr ""
+
+#: includes/theme-settings/images.php:102
+msgid ""
+"If the type of your item layout were 'Text & Image', using this setting you "
+"can control the space between text and image (this setting is only used for "
+"submenus Items)"
+msgstr ""
+
+#: includes/theme-settings/layout.php:12
+msgid "Position & Layout"
+msgstr ""
+
+#: includes/theme-settings/layout.php:18
+msgid "Top Level Items Layout"
+msgstr ""
+
+#: includes/theme-settings/layout.php:28
+msgid ""
+"It specifies the content type of the Top Level Menu Items and also the "
+"Layout Text includes the title and description of menu items (it they are "
+"existent or not hidden)."
+msgstr ""
+
+#: includes/theme-settings/layout.php:34
+msgid "Icons & Images Position For Top Level"
+msgstr ""
+
+#: includes/theme-settings/layout.php:43
+msgid ""
+"It is used to specify the icons and images positions in the Top Level Menu "
+"Items."
+msgstr ""
+
+#: includes/theme-settings/layout.php:49
+msgid "Top Level Items Content Alignment"
+msgstr ""
+
+#: includes/theme-settings/layout.php:57 includes/theme-settings/layout.php:102
+msgid ""
+"It is used to specify the content Alignment of the Top Level Menu Items."
+msgstr ""
+
+#: includes/theme-settings/layout.php:63
+msgid "Normal Items Layout"
+msgstr ""
+
+#: includes/theme-settings/layout.php:73
+msgid ""
+"It specifies the content type of the Normal Items and also the Layout Text "
+"includes the title and description of menu items (it they are existent or "
+"not hidden)."
+msgstr ""
+
+#: includes/theme-settings/layout.php:79
+msgid "Icons & Images Position For Normal Items"
+msgstr ""
+
+#: includes/theme-settings/layout.php:88
+msgid ""
+"It is used to specify the icons and images positions in the Normal Menu "
+"Items."
+msgstr ""
+
+#: includes/theme-settings/layout.php:94
+msgid "Normal Items Content Alignment"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:19
+msgid "Menu bar Length"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:22
+#: includes/theme-settings/menu-bar.php:48
+msgid "Full Width"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:23
+#: includes/theme-settings/menu-bar.php:49
+msgid "Fixed Width"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:26
+msgid ""
+"Choose between a menu bar that runs the full width of the screen, or at a "
+"fixed width. (Bound by theme container)"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:33
+msgid "Menu bar Width"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:36
+msgid ""
+"This setting will be applied when the “Fixed Width” option is selected in "
+"the “Menu Bar Length” setting. So, you can specify a constant Width for your "
+"menu bar."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:45
+msgid "Menu Bar Content Length"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:59
+msgid "Menu Bar Content width"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:62
+msgid ""
+"This setting will be applied when the “Fixed Width” option is selected in "
+"the “Menu Bar Content Length” setting. So, you can specify a constant Width "
+"for your menu bar elements (Content)."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:71
+msgid "Menu Bar Line Height"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:74
+msgid "By using this setting, you can control the height of menu bar."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:84
+msgid "Menu Bar Z Index"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:87
+msgid ""
+"Set the z-index to ensure the menu panels appear on top of other content."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:100
+msgid "The background color for the main menu bar."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:111
+#: includes/theme-settings/mobile.php:130
+#: includes/theme-settings/submenus.php:224
+msgid "Background Image"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:114
+msgid "This will add a background image to your main menu bar."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:123
+#: includes/theme-settings/mobile.php:142
+#: includes/theme-settings/submenus.php:236
+msgid "Repeat Background Image"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:134
+msgid "Set the repeat for your main menu bar background image."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:142
+msgid "Background Attachment"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:145
+msgid "Scroll"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:146
+msgid "Fixed"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:149
+msgid ""
+"This will set whether menu bar background image is fixed or scrolls with the "
+"rest of the page."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:157
+#: includes/theme-settings/mobile.php:161
+#: includes/theme-settings/submenus.php:255
+msgid "Background Position"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:160
+msgid "Set the position for your main menu bar background image."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:169
+#: includes/theme-settings/mobile.php:173
+#: includes/theme-settings/submenus.php:267
+msgid "Background Size"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:172
+msgid "Try \"cover\" to cover the entire your main menu bar."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:181
+msgid "Menu Bar Border Color"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:184
+msgid "The Border Color for the main menu bar."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:193
+msgid "Menu Bar Border Style"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:197
+#: includes/theme-settings/mobile.php:337
+#: includes/theme-settings/submenus.php:295
+#: includes/theme-settings/submenus.php:534
+#: includes/theme-settings/top-level-items.php:188
+msgid "dotted"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:198
+#: includes/theme-settings/mobile.php:338
+#: includes/theme-settings/submenus.php:296
+#: includes/theme-settings/submenus.php:535
+#: includes/theme-settings/top-level-items.php:189
+msgid "dashed"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:199
+#: includes/theme-settings/mobile.php:339
+#: includes/theme-settings/submenus.php:297
+#: includes/theme-settings/submenus.php:536
+#: includes/theme-settings/top-level-items.php:190
+msgid "solid"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:200
+#: includes/theme-settings/mobile.php:340
+#: includes/theme-settings/submenus.php:298
+#: includes/theme-settings/submenus.php:537
+#: includes/theme-settings/top-level-items.php:191
+msgid "double"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:201
+#: includes/theme-settings/mobile.php:341
+#: includes/theme-settings/submenus.php:299
+#: includes/theme-settings/submenus.php:538
+#: includes/theme-settings/top-level-items.php:192
+msgid "groove"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:202
+#: includes/theme-settings/mobile.php:342
+#: includes/theme-settings/submenus.php:300
+#: includes/theme-settings/submenus.php:539
+#: includes/theme-settings/top-level-items.php:193
+msgid "ridge"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:203
+#: includes/theme-settings/mobile.php:343
+#: includes/theme-settings/submenus.php:301
+#: includes/theme-settings/submenus.php:540
+#: includes/theme-settings/top-level-items.php:194
+msgid "inset"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:204
+#: includes/theme-settings/mobile.php:344
+#: includes/theme-settings/submenus.php:302
+#: includes/theme-settings/submenus.php:541
+#: includes/theme-settings/top-level-items.php:195
+msgid "outset"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:207
+msgid "The Border Style for the main menu bar."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:215
+msgid "Menu Bar Border Width"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:218
+msgid ""
+"Using this setting you can specify the border size for four sides of menu "
+"bar (right, left, top and bottom). if you want some sides don’t include "
+"borders, you should set their sizes to 0 value."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:238
+msgid "Menu Bar Border Radius"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:241
+msgid ""
+" If you are using backgrounds on your main menu bar, you can round the "
+"corners with this setting."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:243
+#: includes/theme-settings/mobile.php:383
+#: includes/theme-settings/submenus.php:341
+#: includes/theme-settings/submenus.php:580
+#: includes/theme-settings/top-level-items.php:234
+msgid "Top Left"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:244
+#: includes/theme-settings/mobile.php:384
+#: includes/theme-settings/submenus.php:342
+#: includes/theme-settings/submenus.php:581
+#: includes/theme-settings/top-level-items.php:235
+msgid "Top Right"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:245
+#: includes/theme-settings/mobile.php:385
+#: includes/theme-settings/submenus.php:343
+#: includes/theme-settings/submenus.php:582
+#: includes/theme-settings/top-level-items.php:236
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:246
+#: includes/theme-settings/mobile.php:386
+#: includes/theme-settings/submenus.php:344
+#: includes/theme-settings/submenus.php:583
+#: includes/theme-settings/top-level-items.php:237
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:261
+msgid "Menu Bar Padding"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:264
+msgid "This will allow you to add padding to your main menu bar"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:284
+msgid "Menu Bar Margin"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:287
+msgid "This will allow you to add margin to your main menu bar"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:307
+msgid "Font"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:310
+msgid "It allows you to change font settings for total menu by default."
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:321
+msgid "Menu Bar Shadow"
+msgstr ""
+
+#: includes/theme-settings/menu-bar.php:324
+msgid ""
+"This will add a shadow to your main menu bar. (Not supported in older "
+"browsers)"
+msgstr ""
+
+#: includes/theme-settings/miscellaneous.php:18
+msgid "Container Tag"
+msgstr ""
+
+#: includes/theme-settings/miscellaneous.php:25
+msgid "The tag that wraps the entire menu. Switch to div for non-HTML5 sites."
+msgstr ""
+
+#: includes/theme-settings/miscellaneous.php:31
+msgid "Allow Shortcodes in Navigation Label & Description"
+msgstr ""
+
+#: includes/theme-settings/miscellaneous.php:35
+msgid ""
+"Enable to process shortcodes in the menu item Navigation Label and "
+"Description settings."
+msgstr ""
+
+#: includes/theme-settings/miscellaneous.php:42
+msgid "Content Before Menu"
+msgstr ""
+
+#: includes/theme-settings/miscellaneous.php:46
+msgid ""
+"Add HTML or shortcodes here to insert content before the start of the menu."
+msgstr ""
+
+#: includes/theme-settings/miscellaneous.php:51
+msgid "Content After Menu"
+msgstr ""
+
+#: includes/theme-settings/miscellaneous.php:55
+msgid ""
+"Add HTML or shortcodes here to insert content after the end of the menu."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:12
+msgid "Mobile & Responsive"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:18
+msgid "Responsive Menu"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:22
+msgid "you can disable or enable responsive menu"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:29
+msgid "Responsive Menu Box Direction"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:36
+msgid ""
+"By using this setting, you can open the vertical part of Mobile Menu after "
+"clicking on the responsive toggle Hamburger Icon on the right or left side "
+"of your site."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:42
+msgid "Responsive Mobile Design"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:45
+msgid ""
+"By using this setting you can arrange the elements of vertical parts of the "
+"Mobile Menu. The Logo and Search elements are located at the horizontal part "
+"of Mobile Menu and only the elements which are selected at the Menu Designer "
+"-> Select elements for desktop (except Log and Search elements) can be "
+"appeared on the vertical part of Mobile Menu. Note that only these elements "
+"can be arranged."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:51
+msgid "Responsive Close Icon"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:82
+msgid "Mobile & Responsive Styles"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:89 includes/theme-settings/sticky.php:99
+msgid "Line Height"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:92
+msgid ""
+"You can control the height of horizontal part of the responsive menu using "
+"this setting."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:105
+msgid ""
+"It allows you to specify the background color of the vertical responsive menu"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:116
+msgid "Overlay Background Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:119
+msgid ""
+"It allows you to specify the background color of the overlay section when "
+"the vertical part of the responsive menu is opened."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:133
+msgid "This will add a background image to your responsive menu vertical part."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:153
+msgid "Set the repeat for your responsive menu vertical part background image"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:164
+msgid ""
+"Set the position for your responsive menu vertical part background image."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:176
+msgid "Try \"cover\" to cover the entire your responsive menu vertical part."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:185
+msgid "Mobile Menu Shadow"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:188
+msgid ""
+"This will add a shadow to your responsive menu vertical part. (Not supported "
+"in older browsers)"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:205
+#: includes/theme-settings/submenus.php:379
+msgid "Submenus Padding"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:208
+msgid "This will add padding to the responsive Submenus."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:228
+msgid "Mobile Menu Items"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:235
+#: includes/theme-settings/submenus.php:432
+#: includes/theme-settings/top-level-items.php:33
+msgid "Items Font Size"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:248
+#: includes/theme-settings/submenus.php:445
+#: includes/theme-settings/top-level-items.php:46
+msgid "Items Font Weight"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:251
+msgid ""
+"This will set how thick or thin characters in responsive menu items texts "
+"should be displayed."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:254
+#: includes/theme-settings/submenus.php:451
+#: includes/theme-settings/top-level-items.php:52
+#: includes/theme-settings/top-level-items.php:95
+msgid "normal"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:255
+#: includes/theme-settings/submenus.php:452
+#: includes/theme-settings/top-level-items.php:53
+msgid "bold"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:256
+#: includes/theme-settings/submenus.php:453
+#: includes/theme-settings/top-level-items.php:54
+msgid "bolder"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:257
+#: includes/theme-settings/submenus.php:454
+#: includes/theme-settings/top-level-items.php:55
+msgid "lighter"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:274
+#: includes/theme-settings/submenus.php:471
+#: includes/theme-settings/top-level-items.php:72
+msgid "Items Text Transform"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:277
+msgid "This will control the capitalization of responsive menu items texts."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:291
+#: includes/theme-settings/submenus.php:488
+#: includes/theme-settings/top-level-items.php:144
+msgid "Items Text Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:294
+msgid "The color for the responsive menu Items Texts & Icons."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:305
+#: includes/theme-settings/submenus.php:502
+#: includes/theme-settings/top-level-items.php:158
+msgid "Items Background Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:308
+msgid "The background color for the responsive menu Items."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:319
+#: includes/theme-settings/submenus.php:516
+#: includes/theme-settings/top-level-items.php:172
+msgid "Items Border Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:322
+msgid "The Border Color for the responsive menu Items."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:333
+#: includes/theme-settings/submenus.php:530
+#: includes/theme-settings/top-level-items.php:184
+msgid "Items Border Style"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:347
+msgid "The Border Style for the responsive menu Items."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:355
+#: includes/theme-settings/submenus.php:552
+#: includes/theme-settings/top-level-items.php:206
+msgid "Items Border Width"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:358
+msgid ""
+"Using this setting you can specify the border size for four sides of mobile "
+"menu items (right, left, top and bottom). if you want some sides don’t "
+"include borders, you should set their sizes to 0 value."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:378
+#: includes/theme-settings/top-level-items.php:229
+msgid "Items Border Radius (rounded corners)"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:381
+msgid ""
+"If you are using background color on responsive menu items, you can round "
+"the corners with this setting"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:401
+#: includes/theme-settings/submenus.php:598
+#: includes/theme-settings/top-level-items.php:252
+msgid "Items Padding"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:404
+msgid "This will add padding to the responsive menu items."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:424
+#: includes/theme-settings/submenus.php:621
+msgid "Items Margin"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:427
+msgid "This will add margin to the responsive menu items."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:447
+#: includes/theme-settings/submenus.php:644
+#: includes/theme-settings/top-level-items.php:275
+msgid "Items Line Height"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:450
+msgid "This will set line height for your responsive menu Items"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:460
+#: includes/theme-settings/submenus.php:657
+#: includes/theme-settings/top-level-items.php:288
+msgid "Items Shadow"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:463
+msgid ""
+"This will add a shadow to your responsive menu Items. (Not supported in "
+"older browsers)"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:480
+#: includes/theme-settings/submenus.php:690
+msgid "Arrows Horizontal Spacing"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:483
+#: includes/theme-settings/submenus.php:693
+msgid ""
+"It specifies the Arrow space from left or right side of the item with "
+"respect to its position (left or right side of the item)."
+msgstr ""
+
+#: includes/theme-settings/mobile.php:504
+msgid "Mobile Menu Items(hover)"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:506
+msgid "Mobile Menu Items Hover Styles"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:512
+#: includes/theme-settings/submenus.php:722
+#: includes/theme-settings/top-level-items.php:351
+#: includes/theme-settings/top-level-items.php:365
+msgid "Items Hover Text Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:525
+#: includes/theme-settings/submenus.php:735
+#: includes/theme-settings/top-level-items.php:379
+msgid "Items Hover Background Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:538
+#: includes/theme-settings/submenus.php:748
+#: includes/theme-settings/top-level-items.php:392
+msgid "Items Hover Border Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:550
+msgid "Mobile Menu Items(Current)"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:552
+msgid "Mobile Menu Current Items Styles"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:558
+#: includes/theme-settings/submenus.php:768
+#: includes/theme-settings/top-level-items.php:411
+#: includes/theme-settings/top-level-items.php:425
+msgid "Items Current Text Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:571
+#: includes/theme-settings/submenus.php:781
+#: includes/theme-settings/top-level-items.php:439
+msgid "Items Current Background Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:584
+#: includes/theme-settings/submenus.php:794
+#: includes/theme-settings/top-level-items.php:452
+msgid "Items Current Border Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:596
+msgid "Mobile Menu Items(Highlight)"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:598
+msgid "Styles of mobile menu items with the 'Highlight Link' setting checked"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:604
+#: includes/theme-settings/submenus.php:814
+#: includes/theme-settings/top-level-items.php:471
+msgid "Items Highlight Text Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:617
+#: includes/theme-settings/submenus.php:827
+#: includes/theme-settings/top-level-items.php:498
+msgid "Items Highlight Background Color"
+msgstr ""
+
+#: includes/theme-settings/mobile.php:630
+#: includes/theme-settings/submenus.php:840
+#: includes/theme-settings/top-level-items.php:511
+msgid "Items Highlight Border Color"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:18
+msgid "Social Items type"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:22
+msgid ""
+"It Specifies that the type of social items would be icon or image. Also, it "
+"is possible to override this setting in each social item."
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:31
+msgid "Social Images Size"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:35
+msgid "Social Images sizes can be overridden on individual Social items"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:41
+msgid "Set Social Image Dimensions"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:52
+msgid "Social Image Width"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:61
+msgid "Social Image Height"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:70
+msgid "Social Bar Style"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:78
+msgid "Social Bar wrapper Padding"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:81
+msgid "This will set padding for the Social Bar wrapper"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:101
+msgid "Social Icons Color"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:104
+#, php-format
+msgid "The color for the %s Social icons %s"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:115
+msgid "Social Icons Hover Color"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:118
+#, php-format
+msgid "The hover color for the %s Social icons %s"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:129
+msgid "Social Items Spacing"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:132
+msgid ""
+"The amount of space in each four sides of each social item (top, bottom, "
+"right and left)."
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:142
+msgid "Social Icons Size"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:145
+#, php-format
+msgid "Size of %s Social icons %s"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:155
+msgid "Social Icons Color In Mobile"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:158
+#, php-format
+msgid "The color for the %s Social icons %s on mobile menu"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:169
+msgid "Social Icons Color In Sticky Mode"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:172
+#, php-format
+msgid "The color for the %s Social icons %s on sticky menu"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:183
+msgid "Social Icons Color In Hamburger Bar"
+msgstr ""
+
+#: includes/theme-settings/social-bar.php:186
+#, php-format
+msgid "The color for the %s Social icons %s on hamburger bar"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:12
+msgid "Sticky Menu"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:18
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:22
+msgid ""
+"This enables your menu bar to be sticky. Also known as fixed navigation."
+msgstr ""
+
+#: includes/theme-settings/sticky.php:30
+msgid "Sticky Logo"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:34
+msgid "This is the logo that will be displayed when sticky is activated."
+msgstr ""
+
+#: includes/theme-settings/sticky.php:41
+msgid "Top Offset"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:44 includes/theme-settings/sticky.php:53
+msgid ""
+"Pixel difference from the top of the viewport to place the fixed menu. "
+"Should be less than or equal to the natural offset of the menu.(Integer "
+"usage is only permitted)"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:50
+msgid "Top Offset on Mobile"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:59
+msgid "Sticky on Mobile Devices"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:63
+msgid "Enable or disable Sticky menu on Mobile Devices"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:70
+msgid "Sticky Animation Delay"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:73
+msgid ""
+"The amount of delay in starting the stick menu animation ( this animation "
+"mode occurs when the menu is converted from normal mode to sticky mode)."
+msgstr ""
+
+#: includes/theme-settings/sticky.php:79
+msgid "Sticky Menu Style"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:86
+msgid "Sticky Logo Max Width"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:89
+msgid ""
+"This setting allows you to specify the maximum width of your Sticky Logo. "
+"also, its height will be changed with respect to this variation. So, it can "
+"be said that using this setting, you can specify the size of your Logo."
+msgstr ""
+
+#: includes/theme-settings/sticky.php:102
+msgid "By using this setting, you can control the height of sticky menu."
+msgstr ""
+
+#: includes/theme-settings/sticky.php:115
+msgid "The background color for the menu bar on sticky menu."
+msgstr ""
+
+#: includes/theme-settings/sticky.php:129
+msgid "The text color for the menu bar on sticky menu."
+msgstr ""
+
+#: includes/theme-settings/sticky.php:143
+msgid "The font size for the menu bar on sticky menu."
+msgstr ""
+
+#: includes/theme-settings/sticky.php:153
+msgid "Sticky Shadow"
+msgstr ""
+
+#: includes/theme-settings/sticky.php:156
+msgid ""
+"This will add a shadow to your menu bar on sticky menu. (Not supported in "
+"older browsers)"
+msgstr ""
+
+#: includes/theme-settings/sub-navigation.php:12
+msgid "Sub Navigation"
+msgstr ""
+
+#: includes/theme-settings/sub-navigation.php:18
+msgid "Dynamic Elements"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:28
+msgid "Submenus Open Direction"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:35
+msgid ""
+"It is used to specify Direction Opening of Submenus via “shift nav” "
+"feature(all submenus except Top Level Menu submenus on the desktop using "
+"shifted to parent and child submenu)."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:41
+msgid "submenu shift Transition Duration"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:44
+msgid ""
+"It is used to specify time period when a submenu is shifted to another "
+"submenu (Integer usage is only permitted and time is in the milliseconds , "
+"for all submenus except Top Level Menu submenus on the desktop )."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:53
+msgid "Dropdowns"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:59
+msgid "Dropdowns Position"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:66
+msgid ""
+"It allows you to specify the submenus positions with respect to their parent "
+"items(it is only utilized for Top Level Menu Items and elements which have "
+"Dropdown like WooCommerce Cart Icon)."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:72
+msgid "Dropdowns Trigger"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:79
+msgid ""
+"Open the Dropdowns via this trigger(it is only utilized for Top Level Menu "
+"Items and elements which have Dropdown like WooCommerce Cart Icon)."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:98
+msgid "Dropdowns Transition"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:123
+msgid "Transitions supported in Chrome, Safari, Firefox, IE10+"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:129
+msgid "Dropdowns Transition Duration"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:132
+msgid ""
+"It specifies the time is spent for Opening of Dropdowns (it is only utilized "
+"for Top Level Menu Items).You can use <code>.5s</code> or <code>500ms</"
+"code>. Defaults to .3s"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:141
+msgid "Dropdowns Open Delay"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:144
+msgid ""
+"It specifies the time delay Opening of Dropdowns (it is only utilized for "
+"Top Level Menu Items).You can use <code>.5s</code> or <code>500ms</code>. "
+"Defaults to .2s"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:153
+msgid "Dropdowns Close Hover Delay"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:156
+msgid ""
+"Determines the amount of Dropdowns‘s closing delay. 500 by default(it is "
+"only utilized for Top Level Menu Items. Integer usage is only permitted and "
+"time is in the milliseconds)."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:162
+msgid "Submenus Background Images"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:168
+msgid "Hide Background Images on Mobile"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:179
+msgid "Hide Background Images on Desktop"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:190
+msgid "Submenus Style Customization"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:197
+msgid "Submenus Width"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:200
+msgid ""
+"It specifies the default width of all submenus on desktop. this size can be "
+"override in the settings of items which have submenus."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:213
+msgid "The background color for the All Submenus on desktop."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:227
+msgid "This will add a background image to your Submenus on desktop"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:247
+#: includes/theme-settings/submenus.php:258
+#: includes/theme-settings/submenus.php:270
+#, php-format
+msgid "Learn more from %s"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:279
+msgid "Submenus Border Color"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:282
+msgid "The Border Color for the submenus."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:291
+msgid "Submenus Border Style"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:305
+msgid "The Border Style for the submenus"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:313
+msgid "Submenus Border Width"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:316
+msgid ""
+"Using this setting you can specify the border size for four sides of "
+"submenus (right, left, top and bottom). if you want some sides don’t include "
+"borders, you should set their sizes to 0 value"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:336
+msgid "Submenus Border Radius (rounded corners)"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:339
+msgid "This will allow you to add rounded corners to your submenus"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:359
+msgid "Submenus Shadow"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:362
+msgid ""
+"This will add a shadow to your submenus. (Not supported in older browsers)"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:382
+msgid "This will add padding to the Submenus."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:402
+msgid "Submenus Items"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:409
+msgid "Submenus items text padding"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:412
+msgid ""
+"The spaces which are considered for text of submenus items (including title "
+"and description)"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:448
+msgid ""
+"This will set how thick or thin characters in Submenus items texts should be "
+"displayed."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:474
+msgid "This will control the capitalization of Submenus items texts."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:491
+msgid "The color for the Submenus Items Texts & Icons."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:505
+msgid "The background color for the Submenus Items."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:519
+msgid "The Border Color for the Submenus Items."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:544
+msgid "The Border Style for the Submenus Items."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:555
+msgid ""
+"Using this setting you can specify the border size for four sides of "
+"submenus items (right, left, top and bottom). if you want some sides don’t "
+"include borders, you should set their sizes to 0 value"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:575
+msgid "Items Border Radius"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:578
+msgid ""
+"If you are using background color on submenus items, you can round the "
+"corners with this setting"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:601
+msgid "This will add padding to the Submenus items."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:624
+msgid "This will add margin to the Submenus items."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:647
+msgid "This will set line height for your submenus Items"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:660
+msgid ""
+"This will add a shadow to your submenus Items. (Not supported in older "
+"browsers)"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:677
+msgid "Arrows Size"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:680
+msgid "Determine the Arrow size for the Parent Items."
+msgstr ""
+
+#: includes/theme-settings/submenus.php:714
+msgid "Submenus Items(hover)"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:716
+msgid "Submenus Items Hover Styles"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:760
+msgid "Submenus Items(Current)"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:762
+msgid "Submenus Current Items Styles"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:806
+msgid "Submenus Items(Highlight)"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:808
+msgid "Styles of submenus items with the 'Highlight Link' setting checked"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:853
+msgid "Submenus back Items"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:855
+msgid "Styles of submenus back items"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:861
+msgid "Back Items Text Color"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:874
+msgid "Back Items Background Color"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:887
+msgid "Back Arrows Size"
+msgstr ""
+
+#: includes/theme-settings/submenus.php:890
+msgid "Determine the Arrow size for the Back Items."
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:13
+msgid "Menu Top Level Items"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:20
+msgid "Items Between Spacing"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:23
+msgid ""
+"You can specify the space between top level menu items by using this setting."
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:49
+msgid ""
+"This will set how thick or thin characters in top level menu items texts "
+"should be displayed."
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:75
+msgid "This will control the capitalization of top level menu items texts."
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:89
+msgid "Items Letter Spacing"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:92
+msgid ""
+"This will increases or decreases the space between characters in top level "
+"menu items texts"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:147
+msgid "The color for the top level menu Items Texts & Icons."
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:161
+msgid "The background color for the top level menu Items."
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:175
+msgid "The Border Color for the top level menu Items."
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:198
+msgid "The Border Style for the top level menu Items."
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:209
+msgid ""
+"Using this setting you can specify the border size for four sides of top "
+"level menu items (right, left, top and bottom). if you want some sides don’t "
+"include borders, you should set their sizes to 0 value."
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:232
+msgid ""
+"If you are using background color on top level menu items, you can round the "
+"corners with this setting"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:255
+msgid "This will add padding to the top level menu items."
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:278
+msgid "This will set line height for your top level menu Items"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:291
+msgid ""
+"This will add a shadow to your top level menu Items. (Not supported in older "
+"browsers)"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:308
+msgid "items text padding"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:311
+msgid ""
+"The spaces which are considered for text of top level menu items (including "
+"title and comments)"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:331
+msgid "Items hover/current Border Width"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:343
+msgid "Menu Top Level Items(hover)"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:345
+msgid "Top Level Menu Items Hover Styles"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:403
+msgid "Menu Top Level Items(Current)"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:405
+msgid "Top Level Menu Current Items Styles"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:463
+msgid "Menu Top Level Items(Highlight)"
+msgstr ""
+
+#: includes/theme-settings/top-level-items.php:465
+msgid ""
+"Styles of Top level menu items with the 'Highlight Link' setting checked"
+msgstr ""
+
+#: includes/update-settings.class.php:89
+msgid "Account Info"
+msgstr ""
+
+#: includes/update-settings.class.php:101
+msgid "CodeCanyon Username"
+msgstr ""
+
+#: includes/update-settings.class.php:104
+msgid ""
+"Enter your Envato Username. This must match the username on the account you "
+"used to purchase the StarsMenu license."
+msgstr ""
+
+#: includes/update-settings.class.php:109
+msgid "Purchase Code"
+msgstr ""
+
+#: includes/update-settings.class.php:112
+msgid "Enter your StarsMenu Purchase Code from Envato"
+msgstr ""
+
+#: includes/update-settings.class.php:112
+msgid "Find your purchase code"
+msgstr ""
+
+#: includes/vendor/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:189
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/vendor/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:197
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: includes/vendor/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:340
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/vendor/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:340
+msgid "Error"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-admin-page.php:119
+msgid ""
+"<em>Options Page Created with <a href='http://titanframework.net?"
+"utm_source=admin&utm_medium=admin footer'>Titan Framework</a></em>"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-admin-page.php:365
+msgid "Settings saved."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-admin-page.php:367
+msgid "Settings reset to default."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-customizer.php:33
+#: includes/vendor/titan-framework/lib/class-meta-box.php:36
+msgid "More Options"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-ajax-button.php:30
+#: includes/vendor/titan-framework/lib/class-option-ajax-button.php:33
+msgid "Security check failed, please refresh the page and try again."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-ajax-button.php:87
+msgid "Something went wrong"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-ajax-button.php:95
+msgid "Click me"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-box-shadow.php:68
+#: includes/vendor/titan-framework/lib/class-option-enable.php:62
+#: includes/vendor/titan-framework/lib/class-option-enable.php:142
+msgid "Enabled"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-box-shadow.php:69
+msgid "Horizontal"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-box-shadow.php:70
+msgid "Vertical"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-box-shadow.php:71
+msgid "Blur"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-box-shadow.php:72
+msgid "Spread"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-box-shadow.php:73
+msgid "Color"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-custom-widget-areas.php:30
+msgid "Manage all custom widget areas for using on menu items"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-custom-widget-areas.php:54
+msgid "Add Widget Area"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-custom-widget-areas.php:60
+msgid "Add or remove custom widget areas"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:134
+msgid "Your license is valid and active."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:138
+msgid "Your license is invalid."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:152
+msgid "Activate"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:153
+msgid ""
+"Your license is valid but inactive. Click the button above to activate it."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:158
+msgid ""
+"The remote server did not return a valid response. You can retry by hitting "
+"the &laquo;Save&raquo; button again."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:163
+msgid "Entering your license key is mandatory to get the product updates."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:379
+msgid "Theme License"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:380
+msgid "Enter your theme license key."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:381
+msgid "License Key"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:382
+msgid "License Action"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:383
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:384
+msgid "Activate License"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:385
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:397
+msgid "License status is unknown."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:386
+msgid "Renew?"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:387
+msgid "unlimited"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:388
+msgid "License key is active."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:389
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:390
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:391
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:392
+msgid "License key has expired."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:393
+msgid "License keys do not match."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:394
+msgid "License is inactive."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:395
+msgid "License key is disabled."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:396
+msgid "Site is inactive."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:398
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-edd-license.php:399
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-file.php:211
+msgid "Select File"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-file.php:213
+msgid "Use file"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-gallery.php:146
+#: includes/vendor/titan-framework/lib/class-option-upload.php:276
+msgid "Use image"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-gradient.php:72
+msgid "Start Color"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-gradient.php:77
+msgid "End Color"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-design.php:184
+msgid "Layout & Order"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-design.php:187
+msgid ""
+"Choose your menu structure by simply enable or disable what you need and "
+"drag and drop elements to create the <br>layout you want.Items will snap "
+"left, right or center."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-design.php:190
+msgid "Drag And Drop Elements"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-design.php:215
+msgid "Drag And Drop Hamburger Icon"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-design.php:241
+msgid "Select elements for desktop"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-design.php:267
+msgid "Activate elements on sticky menu"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-instances.php:31
+msgid ""
+"Some themes will output a menu location multiple times on the same page. For "
+"example, your theme may output a menu location once for the main menu, then "
+"again for the mobile menu. This setting can be used to make sure Stars Menu "
+"is only applied to one of those instances."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-instances.php:35
+msgid "Menu Location"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-instances.php:35
+msgid "Active Instance"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-instances.php:47
+msgid ""
+"0: Apply to all instances. 1: Apply to first instance 2: Apply to second "
+"instance , ..."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-integrate.php:36
+msgid ""
+"This is an overview of the menu locations supported by your theme. You can "
+"enable Stars Menu and adjust the settings for a specific menu location by "
+"going to Appearance > Menus."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-integrate.php:39
+msgid "Integrate Specific Theme Location"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-integrate.php:55
+msgid ""
+"To display a specific theme locaton, select the theme location above to "
+"generate that code"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-menu-mobile-design.php:35
+msgid "Main Navigation"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-multicheck-pages.php:28
+#: includes/vendor/titan-framework/lib/class-option-multicheck-pages.php:49
+#: includes/vendor/titan-framework/lib/class-option-multicheck-posts.php:35
+#: includes/vendor/titan-framework/lib/class-option-multicheck-posts.php:61
+#: includes/vendor/titan-framework/lib/class-option-select-pages.php:34
+#: includes/vendor/titan-framework/lib/class-option-select-posts.php:42
+#, php-format
+msgid "Untitled %s"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-save.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-save.php:24
+msgid "Reset to Defaults"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-save.php:27
+msgid "Are you sure you want to reset ALL options to their default values?"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-sub-nav-bar.php:38
+msgid "Select Menu"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-sub-nav-bar.php:77
+msgid "Element Title:"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-sub-nav-bar.php:88
+msgid "Add Element"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option-sub-nav-bar.php:107
+#: includes/vendor/titan-framework/lib/class-option-sub-nav-bar.php:154
+msgid "Type:"
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-option.php:119
+#, php-format
+msgid "Option type or extended class %s does not exist."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-titan-framework.php:190
+#, php-format
+msgid ""
+"All option IDs per namespace must be unique. The id %s has been used "
+"multiple times."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-titan-framework.php:445
+#, php-format
+msgid "%s needs a %s parameter."
+msgstr ""
+
+#: includes/vendor/titan-framework/lib/class-titan-framework.php:455
+#, php-format
+msgid "Container of type %s, does not exist."
+msgstr ""
+
+#: includes/vendor/titan-framework/titan-framework-checker.php:72
+msgid "Titan Framework needs to be installed."
+msgstr ""
+
+#: includes/vendor/titan-framework/titan-framework-checker.php:75
+msgid "Click here to search for the plugin."
+msgstr ""
+
+#: includes/vendor/titan-framework/titan-framework-checker.php:82
+msgid "Titan Framework needs to be activated."
+msgstr ""
+
+#: includes/vendor/titan-framework/titan-framework-checker.php:85
+msgid "Click here to go to the plugins page and activate it."
+msgstr ""
+
+#: includes/vendor/titan-framework/titan-framework.php:200
+msgid "Documentation"
+msgstr ""
+
+#: includes/vendor/titan-framework/titan-framework.php:204
+msgid "GitHub Repo"
+msgstr ""
+
+#: includes/vendor/titan-framework/titan-framework.php:208
+msgid "Issue Tracker"
+msgstr ""
+
+#: includes/vendor/update-checker/github-checker.php:119
+msgid "There is no changelog available."
+msgstr ""
+
+#: includes/vendor/update-checker/plugin-update-checker.php:763
+msgid "Check for updates"
+msgstr ""
+
+#: includes/vendor/update-checker/plugin-update-checker.php:807
+msgid "This plugin is up to date."
+msgstr ""
+
+#: includes/vendor/update-checker/plugin-update-checker.php:809
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: includes/vendor/update-checker/plugin-update-checker.php:811
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: stars-menu.php:563
+msgid "Stars Menu Settings"
+msgstr ""
+
+#: stars-menu.php:673
+msgid "This theme does not register any menu locations."
+msgstr ""
+
+#: stars-menu.php:674
+msgid ""
+"You will need to create a new menu location and use the Stars Menu widget or "
+"shortcode to display the menu on your site."
+msgstr ""
+
+#: stars-menu.php:675
+msgid "Click {link} for instructions."
+msgstr ""
+
+#: stars-menu.php:679
+msgid ""
+"Please assign this menu to a theme location to enable the Mega Menu settings."
+msgstr ""
+
+#: stars-menu.php:721
+msgid "Save"
+msgstr ""
+
+#: stars-menu.php:746
+msgid "Enable"
+msgstr ""
+
+#: stars-menu.php:754
+msgid "Theme"
+msgstr ""
+
+#: stars-menu.php:875
+msgid "Saved Settings Success"
+msgstr ""
+
+#: stars-menu.php:1067
+msgctxt "Post Type General Name"
+msgid "Stars Menu Themes"
+msgstr ""
+
+#: stars-menu.php:1068
+msgctxt "Post Type Singular Name"
+msgid "Stars Menu Theme"
+msgstr ""
+
+#: stars-menu.php:1069 stars-menu.php:1119
+msgid "Stars Menu Themes"
+msgstr ""
+
+#: stars-menu.php:1070 stars-menu.php:1095
+msgid "Stars Menu Theme"
+msgstr ""
+
+#: stars-menu.php:1071
+msgid "Item Archives"
+msgstr ""
+
+#: stars-menu.php:1072
+msgid "Parent Item:"
+msgstr ""
+
+#: stars-menu.php:1073
+msgid "All Items"
+msgstr ""
+
+#: stars-menu.php:1074
+msgid "Add New Item"
+msgstr ""
+
+#: stars-menu.php:1075
+msgid "Add New"
+msgstr ""
+
+#: stars-menu.php:1076
+msgid "New Item"
+msgstr ""
+
+#: stars-menu.php:1077
+msgid "Edit Item"
+msgstr ""
+
+#: stars-menu.php:1078
+msgid "Update Item"
+msgstr ""
+
+#: stars-menu.php:1079
+msgid "View Item"
+msgstr ""
+
+#: stars-menu.php:1080
+msgid "Search Item"
+msgstr ""
+
+#: stars-menu.php:1081
+msgid "Not found"
+msgstr ""
+
+#: stars-menu.php:1082
+msgid "Not found in Trash"
+msgstr ""
+
+#: stars-menu.php:1083
+msgid "Featured Image"
+msgstr ""
+
+#: stars-menu.php:1084
+msgid "Set featured image"
+msgstr ""
+
+#: stars-menu.php:1085
+msgid "Remove featured image"
+msgstr ""
+
+#: stars-menu.php:1086
+msgid "Use as featured image"
+msgstr ""
+
+#: stars-menu.php:1087
+msgid "Insert into item"
+msgstr ""
+
+#: stars-menu.php:1088
+msgid "Uploaded to this item"
+msgstr ""
+
+#: stars-menu.php:1089
+msgid "Items list"
+msgstr ""
+
+#: stars-menu.php:1090
+msgid "Items list navigation"
+msgstr ""
+
+#: stars-menu.php:1091
+msgid "Filter items list"
+msgstr ""
+
+#: stars-menu.php:1096
+msgid "Create Theme For Stars Menu"
+msgstr ""
+
+#: stars-menu.php:1119
+msgid "Themes"
+msgstr ""
+
+#: stars-menu.php:1121
+msgid "Add New Themes"
+msgstr ""
+
+#: stars-menu.php:1121
+msgid "New Theme"
+msgstr ""
+
+#: templates/front-end/modern-horizontal/element_cart_icon.php:41
+msgid "Cart"
+msgstr ""
+
+#: templates/front-end/theme-preview.php:33
+msgid "this theme not assigned to any menus."
+msgstr ""
+
+#~ msgid "skin is not set."
+#~ msgstr "f"
+
+#~ msgid "Package is not set."
+#~ msgstr "f"
+
+#~ msgid "edit with site editor"
+#~ msgstr "f"
